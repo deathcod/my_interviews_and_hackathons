@@ -1,1 +1,1 @@
-![question_jpeg][question.jpeg]
+![question_jpeg](question.jpeg)
