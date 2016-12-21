@@ -1,1 +1,1 @@
-![readme pdf](FullStackDeveloper.pdf)
+![readme pdf](FullStackDeveloper.jpg)
