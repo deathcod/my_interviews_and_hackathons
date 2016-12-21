@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>user_details</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <div class="col-md-12">
+		<div id="user_table"><center><h5>Please wait</h5></center></div><!-- all table -->
+    </div>
+    <div class="row">
+		<div class="col-md-6">
+			<ul class="pagination"> 
+			</ul>
+		</div>
+		<div class="col-md-6">
+			<button id="newuser" type="button" class="btn btn-success btn-lg pull-right" onclick="redirect()">Add new user</button>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+
+<script>
+
+function pagination(page=1)	
+{
+	/*TODO
+	also create pagination point when the page ends not to show the last page.
+	*/
+	var x;
+	console.log(page);
+	view_user_details(page)
+	if (page==1)
+	{
+		x = '<li class="active"><a href="#" onclick="pagination(1);">1</a></li><li><a href="#" onclick="pagination(2);">2</a></li><li><a href="#" onclick="pagination(3);">3</a></li>';
+	}
+	else
+	{
+		x = '<li><a href="#" onclick="pagination('+(page-1)+');">'+(page-1)+'</a></li><li class="active" ><a href="#" onclick="pagination('+(page)+')">'+page+'</a></li><li><a href="#" onclick="pagination('+(page+1)+')">'+(page+1)+'</a></li>';
+	}
+	document.getElementsByClassName("pagination")[0].innerHTML = x;
+}
+
+function view_user_details(page=1)
+{
+	var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() 
+	{
+		if (this.readyState == 4 && this.status == 200) 
+		{
+			var data = this.responseText;
+			//console.log(data);
+        	var myArr = JSON.parse(data);
+        	view_user_table(myArr,parseInt(page));
+		}
+	};
+	xhttp.open("GET", "../?page="+page, true);
+	xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+	xhttp.send();
+}
+
+function _calculateAge(birthday)
+{
+	if(birthday.length<1)
+		return -1;
+	birthday = new Date(birthday);
+    var ageDifMs = Date.now() - birthday.getTime();
+    var ageDate = new Date(ageDifMs); // miliseconds from epoch
+    return Math.abs(ageDate.getUTCFullYear() - 1970);
+}
+
+function _calculateDob(dob)
+{
+	if(dob.length<1)
+		return "";
+	var out;
+	var birthday = new Date(dob);
+	var day = birthday.getDate();
+	if(day%10==1)
+		out= day+"st";
+	else if(day%10==2)
+		out= day+"nd";
+	else if(day%10==3)
+		out=day+"rd";
+	else
+		out=day+"th";
+
+	var m = ["Jan","Feb","Mar","Apr","May","June","July","Aug","Sept","Oct","Nov","Dec"];
+	var month = m[birthday.getMonth()];
+	out +=" "+month;
+
+	var year = birthday.getFullYear();
+	out+=" "+year;
+	
+	return out;
+}
+function view_user_table(arr,page)
+{
+	var out = '<table id="myTable" class="table table-bordered footable"><thead><tr>';
+	out+="<th class=col-xs-1>Sl. No.</th>";
+	out+="<th class=col-xs-1>Name</th>";
+	out+="<th class=col-xs-1>Email</th>";
+	out+="<th class=col-xs-1>Mobile no.</th>";
+	out+="<th class=col-xs-1>Date of Birth</th>";
+	out+="<th class=col-xs-1>Age</th>";
+	out+="<th class=col-xs-1>Location</th>";
+	out+='<th class="col-xs-1">Action</th>';
+	out+='</tr></thead><tbody>';
+	var i;
+    for(i = 0; i < arr.length; i++) 
+    {
+        out+= '<tr id="client'+i+'">';
+		out+='<td>'+(i+(page-1)*5+1)+'</td>';
+		out+='<td>'+arr[i].name+ '</td>';
+		out+='<td>'+arr[i].email+'</td>';
+		out+='<td>'+arr[i].mobile+'</td>';
+		out+='<td>'+_calculateDob(arr[i].dob)+'</td>';
+		out+='<td>'+_calculateAge(arr[i].dob)+'</td>';
+		out+='<td>'+arr[i].location+'</td>';
+		out+='<td><button type="button" class="btn btn-info btn-sm" id="customer'+ arr[i].id +'" onclick="redirect('+ arr[i].id +')" data-toggle="modal" data-target="#modal_customer" ><i class="fa fa-info" aria-hidden="true"></i>Edit</button></td>';
+		out+='</tr>';
+    }
+    out+='</tbody></table>';
+     if(arr.length>0) document.getElementById("user_table").innerHTML = out;
+	else document.getElementById("user_table").innerHTML = '<center><h4 style="color:red">No Data Recieved</h4></center>';
+
+
+}
+
+function redirect(id =-1)
+{
+	if(id==-1)
+		window.open('../add_edit/');
+	else
+   		window.open('../add_edit/?id='+id);
+    window.close();
+}
+pagination();
+view_user_details();
+</script>

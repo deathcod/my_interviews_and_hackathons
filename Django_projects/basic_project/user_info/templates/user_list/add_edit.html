@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add_edit</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+</head>
+<body>
+    
+<div class="container">
+    <div class="bd-example">
+        <form>{% csrf_token %}
+            <div class="form-group row">
+                <label for="name" class="col-xs-2 col-form-label">Name</label>
+                <div class="col-xs-5">
+                <input class="form-control" type="text" value="Fname Lname" id="name" />
+                <div class="col-xs-12 bg-danger" id="name_error" ></div>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="email" class="col-xs-2 col-form-label">Email</label>
+                <div class="col-xs-5">
+                <input class="form-control" type="email" value="abc@gmail.com" id="email" />
+                <div class="col-xs-12 bg-danger" id="email_error" ></div>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="mobile" class="col-xs-2 col-form-label">Telephone</label>
+                <div class="col-xs-5">
+                <input class="form-control" type="tel" value="xxxxxxxxxx" id="mobile" />
+                <div class="col-xs-12 bg-danger" id="mobile_error" ></div>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="dob" class="col-xs-2 col-form-label">Date of Birth</label>
+                <div class="col-xs-5">
+                <input class="form-control" type="date" value="dd/mm/yyyy" id="dob" />
+                <div class="col-xs-12 bg-danger" id="dob_error" ></div>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="location" class="col-xs-2 col-form-label">Location</label>
+                <div class="col-xs-5">
+                <input class="form-control" type="text" value="location" id="location" />
+                <div class="col-xs-12 bg-danger" id="location_error" ></div>
+                </div>
+            </div>
+
+            <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&libraries=places&language=en-AU"></script>
+        <script>
+            var autocomplete = new google.maps.places.Autocomplete($("#location")[0], {});
+
+            google.maps.event.addListener(autocomplete, 'place_changed', function() {
+                var place = autocomplete.getPlace();
+                console.log(place.address_components);
+            });
+        </script>
+            <button id="subadd" type="click"  class="btn btn-primary">Submit</button>
+            <button id="cancel" type="click"  class="btn btn-danger">Cancel</button>
+        </form>
+    </div>
+</div>
+<div id="content"></div>
+</body>
+</html>
+
+
+<script type="text/javascript">
+var id;
+function getUrlParameter(sParam) 
+{
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+    sURLVariables = sPageURL.split('&'),
+    sParameterName,
+    i;
+
+    for (i = 0; i < sURLVariables.length; i++)
+    {
+        sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] === sParam)
+        {
+            return sParameterName[1] === undefined ? true : sParameterName[1];
+            break;
+        }
+    }
+}
+
+function view_user_details(id)
+{
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() 
+    {
+        if (this.readyState == 4 && this.status == 200) 
+        {
+            var data = this.responseText;
+            var myArr = JSON.parse(data);
+            document.getElementById("name").value = myArr['name'];
+            document.getElementById("email").value = myArr['email'];
+            document.getElementById("mobile").value = myArr['mobile'];
+            if(!(myArr['dob']=== undefined))
+                document.getElementById("dob").value = myArr['dob'];
+            document.getElementById("location").value = myArr['location'];
+        }
+    };
+    xhttp.open("GET", "../"+id+"/", true);
+    xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xhttp.send();
+}
+
+function getCookie(name) {
+    var cookieValue = null;
+    if (document.cookie && document.cookie !== '') {
+        var cookies = document.cookie.split(';');
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = jQuery.trim(cookies[i]);
+            // Does this cookie string begin with the name we want?
+            if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                break;
+            }
+        }
+    }
+    return cookieValue;
+}
+
+function csrfSafeMethod(method) {
+    // these HTTP methods do not require CSRF protection
+    return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+}
+
+function redirect()
+{
+    window.open('../details/');
+    window.close();
+}
+
+function testing(regex, id_name,given_text)
+{
+    if(regex.test(given_text)==false)
+    {
+        document.getElementById(id_name+'_error').innerHTML="enter a valid "+id_name;
+        return false;
+    }
+    else
+    {
+        document.getElementById(id_name+'_error').innerHTML="ok";
+        document.getElementById(id_name+'_error').className="col-xs-12 bg-success";
+        return true;
+    }
+}
+$('#subadd').click(function(event){
+    event.preventDefault();
+    var name = document.getElementById('name').value;
+    var email = document.getElementById('email').value;
+    var mobile = document.getElementById('mobile').value;
+    var dob = document.getElementById('dob').value;
+    console.log(dob);
+    var location = document.getElementById('location').value;
+
+    //testing
+    //TODO update testing for dob
+    if(!(testing(/^([A-Za-z]+ [A-Za-z]+)$/ ,"name",name) && 
+        testing(/^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/,"email", email) && 
+        testing(/^([\d]{10})$/ , "mobile", mobile) &&
+        testing(/^\d{4}-\d{2}-\d{2}$/,"dob",dob) &&
+        location.length>1
+        ))
+    return;
+
+
+    var csrftoken = getCookie('csrftoken');
+    var data = {
+            name: name,
+            email: email,
+            mobile: mobile,
+            dob: dob,
+            location: location,
+        };
+    console.log(id + " " +name + " "+email+ " "+ mobile+ " "+ location);
+    $.ajaxSetup({
+        beforeSend: function(xhr, settings) {
+            if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+                xhr.setRequestHeader("X-CSRFToken", csrftoken);
+            }
+        }
+    });
+    var method, url;
+    if(id === undefined)
+    {
+        method = 'POST';
+        url = '../create/'
+    }
+    else
+    {
+        method = 'PUT';
+        url = '../'+id+'/edit/';
+    }
+    $.ajax({
+        type: method,
+        url: url,
+        contentType: 'application/json',
+        data: JSON.stringify(data),
+        success: function(data){
+            console.log(data);
+            redirect();   
+        },error: function(jqXHR, textStatus, errorThrown) {
+                alert('An error occurred... Look at the console (F12 or Ctrl+Shift+I, Console tab) for more information!');
+                console.log('jqXHR:');
+                console.log(jqXHR);
+                console.log('textStatus:');
+                console.log(textStatus);
+                console.log('errorThrown:');
+                console.log(errorThrown);
+            }
+
+    });
+});
+
+$('#cancel').click(function(event){
+    redirect();
+});
+id = getUrlParameter('id');
+if(id === undefined)
+    document.getElementById('subadd').innerHTML = 'Add';
+else
+    view_user_details(id);
+</script>
