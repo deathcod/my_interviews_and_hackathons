@@ -1,0 +1,7 @@
+# ignore the unfinished projects
+linkedin_data_mining/
+linkedin_scrapping/
+
+# ignore subfolder 
+
+Django_projects/py3env
