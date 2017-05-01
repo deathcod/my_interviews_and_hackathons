@@ -1,0 +1,5 @@
+myenv
+dynamodb_local_latest
+
+#remove all the pycache file
+*.pyc
