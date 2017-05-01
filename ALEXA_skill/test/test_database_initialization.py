@@ -10,7 +10,7 @@ def testing():
 
 	#This is the main variable which changed to true all the changes will take place 
 	#everywhere in the code and the code is ready to be uploaded.
-	DEPLOY = False
+	DEPLOY = True
 
 	x = initialize_db.DynamoDB('competitons', DEPLOY = DEPLOY)
 	x.put_data(scrapping_sites.codeforces(DEPLOY = DEPLOY))
