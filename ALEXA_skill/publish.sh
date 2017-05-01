@@ -21,9 +21,17 @@ cd
 cd "$PACKAGE_PATH/lxml-3.7.3/src/"
 zip -r "../../$ZIP_PATH" lxml
 
+cd 
+
+# adding etree file
+cd "$PACKAGE_PATH/pip/_vendor/html5lib/treebuilders/"
+zip -r "../../../$ZIP_PATH" etree.py
+
+
+cd
 
 #getting the files which are necessary
-cd ../../../../../../
+cd "Desktop/college_work/my_interviews_and_hackathons/ALEXA_skill"
 zip -r xyz.zip database src index.py test
 
 #invoking aws lambda function 
