@@ -126,7 +126,7 @@ def testing():
 	DEPLOY = True
 
 	x = DynamoDB('competitons', DEPLOY = DEPLOY)
-	x.put_data(codeforces(DEPLOY = False))
+	x.put_data(codeforces(DEPLOY = DEPLOY))
 	x.get_data( {
 					'competiton_name' : 'VK Cup 2017 - Wild Card Round 2',
 					'datetime' : 1493220900
