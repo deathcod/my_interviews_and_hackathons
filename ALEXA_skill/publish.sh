@@ -18,8 +18,8 @@ zip -r "../../$ZIP_PATH" requests
 cd 
 
 # adding lxml package
-cd "$PACKAGE_PATH/lxml-3.7.3/src/"
-zip -r "../../$ZIP_PATH" lxml
+cd "$PACKAGE_PATH"
+zip -r "../../$ZIP_PATH" lxml-3.7.3
 
 cd 
 
