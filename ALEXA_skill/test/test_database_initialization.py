@@ -14,6 +14,7 @@ def testing():
 
 	x = initialize_db.DynamoDB('competitons', DEPLOY = DEPLOY)
 	x.put_data(scrapping_sites.codeforces(DEPLOY = DEPLOY))
+	x.put_data(scrapping_sites.codechef(DEPLOY = DEPLOY))
 	x.get_data( {
 					'competiton_name' : 'VK Cup 2017 - Wild Card Round 2',
 					'datetime' : 1493220900

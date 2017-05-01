@@ -12,5 +12,10 @@ def test__codeforces():
 	pass
 
 
+def test__codechef():
+	print (scrapping_sites.codechef(DEPLOY = True))
+	print (scrapping_sites.codechef(DEPLOY = False))
+	pass
+
 
 #test__codeforces()
