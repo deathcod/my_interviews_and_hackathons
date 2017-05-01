@@ -9,3 +9,5 @@ def lambda_handler(event, context):
     # TODO implement
     test_database_initialization.testing()
     return 'Hello from Lambda'
+
+#lambda_handler("","")
