@@ -5,7 +5,6 @@ zip -r ../../../../../../xyz.zip requests
 cd ../../../../../../
 zip -r xyz.zip database src index.py 
 aws lambda update-function-code --region us-east-1 --function-name schedule_task --zip-file fileb://xyz.zip
-cd ../..
-git add ALEXA_skill/*
-git commit -m "ALEXA_skill"
+git add --all
+git commit -m "new change"
 git push origin master
