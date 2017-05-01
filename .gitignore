@@ -5,5 +5,3 @@ linkedin_scrapping/
 # ignore subfolder 
 
 Django_projects/py3env
-ALEXA_skill/myenv
-ALEXA_skill/dynamodb_local_latest
