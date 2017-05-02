@@ -10,7 +10,7 @@ cd ..
 
 
 #getting the files which are necessary
-zip -r xyz.zip database src index.py test
+zip -r xyz.zip database src index.py test LIB
 
 #invoking aws lambda function 
 aws lambda update-function-code --region us-east-1 --function-name schedule_task --zip-file fileb://xyz.zip
