@@ -6,7 +6,7 @@ CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(CURRENT_DIR))
 if 'LD_LIBRARY_PATH' not in os.environ:
     try:
-    	os.environ['LD_LIBRARY_PATH'] = CURRENT_DIR + '/../LIB/libxml2'
+    	os.environ['LD_LIBRARY_PATH'] = CURRENT_DIR + '/../LIB'
     	os.execv(sys.argv[0], sys.argv)
     except :
         raise Exception("Failed execv")
