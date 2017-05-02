@@ -4,9 +4,9 @@
 rm xyz.zip
 
 #getting the list of all package
-cd PACKAGES
-zip -r ../xyz.zip *
-cd ..
+cd myenv/lib/python3.4/site-packages/
+zip -r ../../../../xyz.zip *
+cd ../../../..
 
 #getting the files which are necessary
 zip -r xyz.zip database src index.py test
