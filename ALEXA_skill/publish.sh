@@ -3,35 +3,12 @@
 
 rm xyz.zip
 
-# getting all the packages required
-
-PACKAGE_PATH="Desktop/college_work/my_interviews_and_hackathons/ALEXA_skill/myenv/lib/python3.4/site-packages"
-ZIP_PATH="../../../../xyz.zip"
-
-
-cd 
-
-# adding requests package
-cd "$PACKAGE_PATH/botocore/vendored/"
-zip -r "../../$ZIP_PATH" requests
-
-cd 
-
-# adding lxml package
-cd "$PACKAGE_PATH"
-zip -r "../../$ZIP_PATH" lxml-3.7.3
-
-cd 
-
-# adding etree file
-cd "$PACKAGE_PATH/pip/_vendor/html5lib/treebuilders/"
-zip -r "../../../$ZIP_PATH" etree.py
-
-
-cd
+#getting the list of all package
+cd PACKAGES
+zip -r ../xyz.zip *
+cd ..
 
 #getting the files which are necessary
-cd "Desktop/college_work/my_interviews_and_hackathons/ALEXA_skill"
 zip -r xyz.zip database src index.py test
 
 #invoking aws lambda function 
