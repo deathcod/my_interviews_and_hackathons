@@ -1,5 +1,8 @@
 myenv
 dynamodb_local_latest
 
+#list of packages for lambda
+PACKAGES
+
 #remove all the pycache file
 *.pyc
