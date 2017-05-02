@@ -1,3 +1,4 @@
+#!usr/bin/env
 import requests
 import json
 from lxml import html
@@ -7,6 +8,14 @@ import os, sys
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(CURRENT_DIR))
+if 'LD_LIBRARY_PATH' not in os.environ:
+    try:
+    	os.environ['LD_LIBRARY_PATH'] = CURRENT_DIR + '/../LIB/libxml2'
+    	os.execv(sys.argv[0], sys.argv)
+    except :
+        raise Exception("Failed execv")
+        sys.exit(1)
+
 
 #this fucntion scraps the ongoing and future coding competitons 
 def codeforces(DEPLOY = False):
