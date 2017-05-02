@@ -1,8 +1,4 @@
 #!usr/bin/env
-import requests
-import json
-from lxml import html
-from datetime import datetime
 
 import os, sys
 
@@ -16,6 +12,10 @@ if 'LD_LIBRARY_PATH' not in os.environ:
         raise Exception("Failed execv")
         sys.exit(1)
 
+import requests
+import json
+from lxml import html
+from datetime import datetime
 
 #this fucntion scraps the ongoing and future coding competitons 
 def codeforces(DEPLOY = False):
