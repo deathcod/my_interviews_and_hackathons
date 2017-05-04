@@ -1,9 +1,10 @@
-#!usr/bin/env
-
+#!/usr/bin/env python
 import os, sys
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(CURRENT_DIR))
+
+print (sys.argv[0])
 if 'LD_LIBRARY_PATH' not in os.environ:
     try:
     	os.environ['LD_LIBRARY_PATH'] = CURRENT_DIR + '/../LIB'
@@ -97,5 +98,5 @@ def codechef(DEPLOY = False):
 	//*[@id="primary-content"]/div/div[3]/table/tbody/tr[2]/td[4]
 	'''
 
-#codechef()
+#print (codechef())
 #print (codeforces(DEPLOY = False))
