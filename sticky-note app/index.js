@@ -17,6 +17,7 @@ window.onload = function(){
 		var edit = new_note.appendChild(document.createElement('edit'))
 		edit.className = "edit"
 		edit.innerHTML = "D"
+		edit.id = id
 
 		var textbox = new_note.appendChild(document.createElement('input'))
 		textbox.className = "textbox"
@@ -32,11 +33,11 @@ window.onload = function(){
 		edit.onclick=function()
 		{
 			var textboxnow = document.createElement((edit.innerHTML == "D")? 'div': 'input')
-			textbox = document.getElementById("textbox-"+id)
+			textbox = document.getElementById("textbox-"+this.id)
 			textboxnow.className = "textbox"
 
 			var textareanow = document.createElement((edit.innerHTML == "D")? 'div' :'textarea')
-			textarea = document.getElementById("textarea-"+id)
+			textarea = document.getElementById("textarea-"+this.id)
 			textareanow.className = "textarea"
 
 			if (edit.innerHTML == "D")
@@ -57,10 +58,10 @@ window.onload = function(){
 			}
 
 			new_note.replaceChild(textboxnow, textbox)
-			textboxnow.id = "textbox-"+id
+			textboxnow.id = "textbox-"+this.id
 
 			new_note.replaceChild(textareanow, textarea)
-			textareanow.id = "textarea-"+id
+			textareanow.id = "textarea-"+this.id
 		}
 
 		var colors = ["rgb(255, 0, 0)", "rgb(0, 255, 0)", "rgb(0, 0, 255)", "rgb(255, 255, 255)","rgb(0, 0, 0)"];
