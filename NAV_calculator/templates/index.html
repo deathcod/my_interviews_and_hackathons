@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>investment calculator</title>
+  <link rel="stylesheet" href="static/jquery-ui.css">
+  <link rel="stylesheet" href="static/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+
+  var fund_graph = {}
+  var fund_name;
+  var current_amount = 0
+    function selector_fund_name3()
+    {
+        $("#fund_name3").empty()
+        $("#fund_name3").append($('<option>', { text: "select"}))
+
+        var flag = false
+        for (i=0; i<fund_graph[$("#fund_name1 option:selected").val()][$("#fund_name2 option:selected").val()].length; i++)
+        {
+            flag = true
+            $("#fund_name3").append($('<option>', { text: fund_graph[$("#fund_name1 option:selected").val()][$("#fund_name2 option:selected").val()][i]}))
+        }
+        if(flag == true)
+        {
+            $("#fund_name3").css("visibility", "visible")
+        }
+        else
+        {
+            // if only first and second level node is available
+            $("#datepicker").css("visibility", "visible")
+            $("#amount").css("visibility", "visible")
+            $("#insert_data").prop("disabled", false)
+            $("#datepicker").datepicker('setDate', null);
+            $("#amount").val("0")
+
+            fund_name = [$("#fund_name1 option:selected").val(), $("#fund_name2 option:selected").val()].join("-")
+            callAPI(DEPLOY = false, DATA = JSON.stringify({"main_id" : "2", "id" : "2", "data" : [$("#fund_name1 option:selected").val(), $("#fund_name2 option:selected").val()]}), id = 2)
+        }
+    }
+
+    function selector_fund_name2()
+    {
+        $("#fund_name2").empty()
+        $("#fund_name2").append($('<option>', { text: "select"}))
+
+        var flag = false
+        for (i in fund_graph[$("#fund_name1 option:selected").val()])
+        {
+            flag = true
+            $("#fund_name2").append($('<option>', { text: i}))
+        }
+        if(flag == true)
+            $("#fund_name2").css("visibility", "visible")
+        else
+        {
+            // if only first level node is available
+            $("#datepicker").css("visibility", "visible")
+            $("#amount").css("visibility", "visible")
+            $("#insert_data").prop("disabled", false)
+            $("#datepicker").datepicker('setDate', null);
+            $("#amount").val("0")
+
+            fund_name = $("#fund_name1 option:selected").val()
+            callAPI(DEPLOY = false, DATA = JSON.stringify({"main_id" : "2", "id" : "2", "data" : [$("#fund_name1 option:selected").val()]}), id = 2)
+        }
+
+    }
+
+    function selector_fund_name1()
+    {
+        $("#fund_name1").append($('<option>', { text: "select"}))
+        for (i in fund_graph)
+            $("#fund_name1").append($('<option>', { text: i}))
+    }
+
+    function create_fund_graph(data)
+    {
+        for (var i = 0; i < data.length; i++)
+        {
+            var fund_name_split = data[i].fund_name.split("-")
+
+            if (!(fund_name_split[0].trim() in fund_graph))
+                fund_graph[fund_name_split[0].trim()] = {}
+
+            if (fund_name_split.length>=2 && !(fund_name_split[1].trim() in fund_graph[fund_name_split[0].trim()]))
+                fund_graph[fund_name_split[0].trim()][fund_name_split[1].trim()] = []
+
+            if (fund_name_split.length==3 && !(fund_name_split[2].trim() in fund_graph[fund_name_split[0].trim()][fund_name_split[1].trim()]))
+                fund_graph[fund_name_split[0].trim()][fund_name_split[1].trim()].push(fund_name_split[2].trim())
+        }
+
+        selector_fund_name1()
+    }
+
+    var date_nav;
+    function update_datepicker(data)
+    {
+        date_nav = data;
+        // starting of the datepicker in days
+        console.log(data[0].time)
+        console.log(data[data.length-1].time)
+        start_days = data[0].time/86400
+
+        //end of the datepicker in days
+        end_days = data[data.length-1].time/86400
+
+        // current number of days
+        current_days = new Date().getTime() / 1000 - new Date(1970, 0, 1).getTime() / 1000;
+        current_days = current_days/86400
+
+        $('#datepicker').datepicker('destroy');
+        $("#datepicker").datepicker({ minDate: start_days - current_days, maxDate: end_days - current_days});
+
+    }
+
+    function callAPI(DEPLOY = false, DATA = "{}", id = -1) 
+    {
+        if (DEPLOY==true)
+            URL = "https://investment-caluclate.herokuapp.com/query"
+        else
+            URL = "http://127.0.0.1:5000/query"
+        $.ajax({
+        type: "POST",
+        url: URL,
+        contentType: 'application/json',
+        data: DATA,
+        success: function(data){
+            data = JSON.parse(data)
+
+            if(id == 1 && data["remark"] == "successful")
+                create_fund_graph(data["data"]);
+            else if(id == 2)
+                update_datepicker(data["data"]);
+            else
+                //testing the data fetched
+                console.log(data);
+            }
+        });
+
+    }
+
+    $(document).ready(function(){
+        callAPI(DEPLOY = false, DATA = JSON.stringify({"main_id" : "2", "id" : "1"}), id = 1)
+
+        $("#fund_name1").change(function()
+        {
+            $("#fund_name2").css("visibility", "hidden")
+            $("#fund_name3").css("visibility", "hidden")
+            $("#datepicker").css("visibility", "hidden")
+            $("#amount").css("visibility", "hidden")
+            $("#insert_data").prop("disabled", true)
+            $("#amount-error").css("visibility","hidden")
+            $("#datepicker-error").css("visibility","hidden")
+
+            if ($("#fund_name1 option:selected").val() != "select")
+            {   
+                selector_fund_name2()
+            }
+        })
+
+         $("#fund_name2").change(function()
+        {
+            $("#fund_name3").css("visibility", "hidden")
+            $("#datepicker").css("visibility", "hidden")
+            $("#amount").css("visibility", "hidden")
+            $("#insert_data").prop("disabled", true)
+            $("#amount-error").css("visibility","hidden")
+            $("#datepicker-error").css("visibility","hidden")
+
+            if ($("#fund_name2 option:selected").val() != "select")
+            {
+                selector_fund_name3()
+            }
+        })
+
+         $("#fund_name3").change(function(){
+            if ($("#fund_name3 option:selected").val() != "select")
+                // if only first, second, third level node is available
+                $("#datepicker").css("visibility", "visible")
+                $("#amount").css("visibility", "visible")
+                $("#insert_data").prop("disabled", false)
+                $("#datepicker").datepicker('setDate', null);
+                $("#amount").val("0")
+                $("#amount-error").css("visibility","hidden")
+                $("#datepicker-error").css("visibility","hidden")
+
+                fund_name = [$("#fund_name1 option:selected").val(), $("#fund_name2 option:selected").val(), $("#fund_name3 option:selected").val()].join("-")
+                callAPI(DEPLOY = false, DATA = JSON.stringify({"main_id" : "2", "id" : "2", "data" : [$("#fund_name1 option:selected").val(), $("#fund_name2 option:selected").val(), $("#fund_name3 option:selected").val()]}), id = 2)
+        })
+
+        $("#insert_data").click(function(){
+
+            $("#amount-error").css("visibility","hidden")
+            $("#datepicker-error").css("visibility","hidden")
+
+            if($("#datepicker").val() == "")
+            {
+                $('#datepicker-error').text("Invalid date")
+                $("#datepicker-error").css("visibility","visible")
+                return;
+            }
+            else if($("#amount").val() == "")
+            {
+                $('#amount-error').text("Invalid amount")
+                $("#amount-error").css("visibility","visible")
+                return;
+            }
+
+            
+            console.log($("#amount").val())
+            var new_row = $('<tr>')
+            new_row.append($('<td style="font-size: 10px;">').text(fund_name))
+            new_row.append($('<td>').text($("#datepicker").val()))
+            new_row.append($('<td>').text($("#amount").val()))
+
+            datepicker_second = (new Date($("#datepicker").val()).getTime() - new Date(1970, 0, 1).getTime()) / 1000;
+            //console.log(date_nav)
+            console.log(datepicker_second)
+
+            var units = -1
+            for (var i = 0; i < date_nav.length; i++) {
+                if (date_nav[i].time == datepicker_second) {
+                    units = Math.round(($("#amount").val()/date_nav[i].NAV)*100)/ 100
+                    console.log(date_nav[i].NAV)
+                    break
+                }
+            }
+
+            if (units==-1) {
+                alert("No NAV data for the corresponding date, so not updating the table")
+            }
+            else
+            {
+                new_row.append($('<td>').text(units))
+                $('#transaction').append(new_row)
+
+                //Have a doubt as all the funds doesnt have the latest value. So for convenience I have choosed the latest last value 
+                current_amount += units * date_nav[date_nav.length-1].NAV
+                $("#total").text(Math.round(current_amount*100)/ 100)
+            }
+
+        })
+
+
+    })
+</script>
+</head>
+<body>
+
+<div style="height:500px; width: 1000px; border: 1px solid;padding: 20px;margin-left: 150px; margin-top: 100px;">
+  <div style="width: 50%; height: 100%;float: left;">
+ 
+    <div style="height: 25%; width: 100%; float: left;">
+        <div style="height: 100%; width: 30%; float: left; border: 1px solid; text-align: center; line-height:100px;">Fund Name</div>
+        <div style="height: 100%; width: 65%; float: left; border: 1px solid;">
+            <div style="height: 33%; width: 98%; margin-top: 10px; margin-left: 20px; "><select id="fund_name1" ></select></div>
+            <div style="height: 33%; width: 98%; margin-left: 20px;"><select id="fund_name2" style="visibility: hidden;"></select></div>
+            <div style="height: 33%; width: 98%; margin-left: 20px;"><select id="fund_name3" style="visibility: hidden;"></select></div>
+        </div>
+    </div>
+    <div style="height: 25%; width: 100%; float: left;;">
+        <div style="height: 100%; width: 30%; float: left; border: 1px solid; text-align: center; line-height:100px;">Date</div>
+        <div style="height: 100%; width: 65%; float: left; border: 1px solid; line-height:73px;" align="center">
+        <input style="visibility: hidden;" type="text" id="datepicker">
+        <div style="color:red;" id="datepicker-error"></div>
+        </div>
+    </div>
+    <div style="height: 25%; width: 100%; float: left; ">
+        <div style="height: 100%; width: 30%; float: left; border: 1px solid; text-align: center; line-height:100px;">Amount</div>
+        <div style="height: 100%; width: 65%; float: left; border: 1px solid;line-height:73px;" align="center">
+                <input style="visibility: hidden;" type="number" id="amount" value="0" min="0">
+            <div style="color:red; visibility: hidden;" id="amount-error"></div>
+        </div>
+    </div>
+    <button style="margin-top: 50px; margin-left: 150px;" class="ui-button ui-widget ui-corner-all" disabled="true" id="insert_data">Insert the amount</button>
+  </div>
+  <div style="width: 50%; height: 100%;float: left;">
+     <h3 align="center">Transaction Table</h3>
+     <div style="height: 75%; width: 100%; float: left;overflow: scroll;">
+
+        <table id="transaction">
+          <tr>
+            <th>Fund name</th>
+            <th>Date</th>
+            <th>Amount invested</th>
+            <th>units</th>
+          </tr>
+        </table>
+    </div>
+     <div style="height: 10%; width: 100%; float: left;">
+        <div style="height: 100%; width: 30%; float: left; border: 1px solid; text-align: center; line-height:50px;">Total</div>
+        <div style="height: 100%; width: 65%; float: left; border: 1px solid; text-align: center; line-height:50px;" id="total"></div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
