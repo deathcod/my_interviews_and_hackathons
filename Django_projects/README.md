@@ -129,4 +129,4 @@ ________________________________________________________________________________
 
 Suppose you want to extract the regular expression from the url: simply add paranthesis and it will be extracted, make sure you call the same amount otherside :)
 
-![project](project.gif)  
+![project](basic_project/project.gif)  
