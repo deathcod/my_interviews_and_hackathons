@@ -1,0 +1,137 @@
+/home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/myenv/bin/python /home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/src/data_extraction/arrange_data.py
+[
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 0, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Samuel Eto'o"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 1, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Ahmed Hassan"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 2, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Hosny Abd Rabo"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 3, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Mohamed Nagy"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 4, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Manucho"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 5, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Pierre-Emerick Aubameyang"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 6, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Didier Drogba"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 7, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Cheick Diabat (footballer)"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 8, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Houssine Kharja"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 9, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Christopher Katongo"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 10, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Emmanuel Mayuka"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 11, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Emmanuel Emenike"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 12, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Wakaso Mubarak"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 13, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Jonathan Pitroipa"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 14, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Ahmed Akachi"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 15, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Andr Ayew"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 16, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Javier Balboa"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 17, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Thievy Bifouma"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 18, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Dieumerci Mbokani"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 19, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Christian Atsu"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 20, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Junior Kabananga"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "id": 21, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Christian Bassogog"
+    }
+]
+
+Process finished with exit code 0

@@ -1,0 +1,162 @@
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 08:41:24 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 7761)
+TIME: 0 - (CRITICAL):Running on remote OS failed. Please report to the author if the OS is not supported.
+TIME: 0 - (CRITICAL):Remote OS said:
+Bad port 'env'
+TIME: 0 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 08:43:00 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 7811)
+TIME: 0 - (CRITICAL):Running on remote OS failed. Please report to the author if the OS is not supported.
+TIME: 0 - (CRITICAL):Remote OS said:
+Bad port 'env'
+TIME: 0 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 08:47:02 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 7892)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 0 - (CRITICAL):Failed to check remote replica.
+TIME: 0 - [1;33;41mRemote replica path [127.0.1.1:22/] does not exist / is not writable.[0m
+TIME: 1 - (CRITICAL):Cancelling task.
+TIME: 1 - (ERROR):osync finished with errors.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 08:47:33 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [quicksync_task] launched as device3@kali (PID 8031)
+TIME: 1 - (CRITICAL):Running on remote OS failed. Please report to the author if the OS is not supported.
+TIME: 1 - (CRITICAL):Remote OS said:
+Bad port 'env'
+TIME: 1 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 08:47:46 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 8082)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 1 - (CRITICAL):Failed to check remote replica.
+TIME: 0 - [1;33;41mRemote replica path [127.0.1.1:22/] does not exist / is not writable.[0m
+TIME: 1 - (CRITICAL):Cancelling task.
+TIME: 1 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 08:48:56 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 8223)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 1 - (CRITICAL):Failed to check remote replica.
+TIME: 0 - [1;33;41mRemote replica path [127.0.1.1:22/] does not exist / is not writable.[0m
+TIME: 1 - (CRITICAL):Cancelling task.
+TIME: 1 - (ERROR):osync finished with errors.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 08:49:06 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [quicksync_task] launched as device3@kali (PID 8355)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 1 - (CRITICAL):Failed to check remote replica.
+TIME: 0 - [1;33;41mRemote replica path [/] is not writable.[0m
+TIME: 1 - (CRITICAL):Cancelling task.
+TIME: 1 - (ERROR):osync finished with errors.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 08:50:22 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [quicksync_task] launched as device3@kali (PID 8498)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 1 - (CRITICAL):Failed to check remote replica.
+TIME: 0 - [1;33;41mRemote replica path [/D/] does not exist / is not writable.[0m
+TIME: 1 - (CRITICAL):Cancelling task.
+TIME: 1 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 08:50:37 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 8639)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 1 - (CRITICAL):Failed to check remote replica.
+TIME: 0 - [1;33;41mRemote replica path [127.0.1.1:22/] does not exist / is not writable.[0m
+TIME: 1 - (CRITICAL):Cancelling task.
+TIME: 1 - (ERROR):osync finished with errors.
+TIME: 0 - (CRITICAL):Initiator or target path empty.
+TIME: 0 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 09:06:28 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 8849)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 0 - (CRITICAL):Failed to check remote replica.
+TIME: 0 - [1;33;41mRemote replica path [/] is not writable.[0m
+TIME: 1 - (CRITICAL):Cancelling task.
+TIME: 1 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 09:06:42 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 8987)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 0 - (CRITICAL):Failed to check remote replica.
+TIME: 0 - [1;33;41mRemote replica path [/D/] does not exist / is not writable.[0m
+TIME: 0 - (CRITICAL):Cancelling task.
+TIME: 0 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 09:07:57 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 9324)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 0 - Checking minimum disk space in remote replica [/home/device1/D/].
+TIME: 1 - Starting synchronization task.
+TIME: 1 - Creating target replica file list [/home/device1/D/].
+TIME: 1 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating initiator replica deleted file list.
+TIME: 2 - Creating target replica deleted file list.
+TIME: 2 - Updating target replica.
+TIME: 2 - Updating target replica succeded.
+TIME: 2 - Updating initiator replica.
+TIME: 3 - (CRITICAL):Updating initiator replica failed. Stopping execution.
+TIME: 3 - (WARN):Command was [/usr/bin/rsync --rsync-path="__(o_O)__ rsync" -rltD -8 --no-whole-file   -p -o -g --executability  -u -e "/usr/bin/ssh -C -i /home/device3/.ssh/id_rsa  -p 22" --backup --backup-dir=".osync_workdir/backup" --exclude ".osync_workdir"   --exclude-from="/home/device3/D/.osync_workdir/state/initiator-deleted-list-quicksync_task" --exclude-from="/home/device3/D/.osync_workdir/state/target-deleted-list-quicksync_task" device1@127.0.1.1:"/home/device1/D/" "/home/device3/D/" >> /tmp/osync.update.initiator.9324.20170731T090757.663356488 2>&1].
+TIME: 3 - Rsync output:
+rsync: failed to open exclude file /home/device3/D/.osync_workdir/state/initiator-deleted-list-quicksync_task: No such file or directory (2)
+rsync error: error in file IO (code 11) at exclude.c(1058) [client=3.0.9]
+TIME: 3 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 09:09:03 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 9873)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 0 - Checking minimum disk space in remote replica [/home/device1/].
+TIME: 1 - Starting synchronization task.
+TIME: 1 - Creating initiator replica file list [/home/device3/D/].
+TIME: 1 - Creating target replica file list [/home/device1/].
+TIME: 2 - Creating initiator replica deleted file list.
+TIME: 2 - Creating target replica deleted file list.
+TIME: 2 - Updating target replica.
+TIME: 2 - Updating target replica succeded.
+TIME: 2 - Updating initiator replica.
+TIME: 3 - Updating initiator replica succeded.
+TIME: 3 - Propagating deletions to initiator replica.
+TIME: 3 - Propagating deletions to target replica.
+TIME: 3 - Creating target replica file list [/home/device1/].
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 4 - Finished synchronization task.
+TIME: 4 - Running conflict backup cleanup.
+TIME: 4 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 4 - Cleanup complete on target replica.
+TIME: 4 - Running soft deletion cleanup.
+TIME: 4 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 4 - File cleanup complete on initiator replica.
+TIME: 4 - Directory cleanup complete on initiator replica.
+TIME: 4 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 4 - Cleanup complete on target replica.
+TIME: 5 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 09:11:21 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [quicksync_task] launched as device3@kali (PID 10860)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/].
+TIME: 0 - Checking minimum disk space in remote replica [/home/device1/].
+TIME: 1 - Starting synchronization task.
+TIME: 1 - Creating initiator replica file list [/home/device3/].
+TIME: 1 - Creating target replica file list [/home/device1/].
+TIME: 1 - Creating initiator replica deleted file list.
+TIME: 1 - Creating target replica deleted file list.
+TIME: 2 - Updating target replica.
+TIME: 2 - Updating target replica succeded.
+TIME: 2 - Updating initiator replica.

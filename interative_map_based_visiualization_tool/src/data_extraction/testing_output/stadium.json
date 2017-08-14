@@ -1,0 +1,230 @@
+/home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/myenv/bin/python /home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/src/data_extraction/arrange_data.py
+[
+    {
+        "capacity": "74,100", 
+        "city": "Cairo", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [31.360289, 30.087306]}", 
+        "id": 0, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Cairo International Stadium"
+    }, 
+    {
+        "capacity": "25,500", 
+        "city": "Cairo", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [31.23944, 30.05611]}", 
+        "id": 1, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Cairo Military Academy Stadium"
+    }, 
+    {
+        "capacity": "21,650", 
+        "city": "Alexandria", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [32.28333, 31.25]}", 
+        "id": 2, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Port Said Stadium"
+    }, 
+    {
+        "capacity": "24,060", 
+        "city": "Port Said", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [29.91667, 31.2]}", 
+        "id": 3, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Alexandria Stadium"
+    }, 
+    {
+        "capacity": "19,676", 
+        "city": "Alexandria", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [32.266669, 30.58333]}", 
+        "id": 4, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Ismailia Stadium"
+    }, 
+    {
+        "capacity": "40,000", 
+        "city": "Accra", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [-0.202815, 5.661083]}", 
+        "id": 5, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Ohene Djan Stadium"
+    }, 
+    {
+        "capacity": "40,528", 
+        "city": "Kumasi", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [-1.613894, 6.708083]}", 
+        "id": 6, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Baba Yara Stadium"
+    }, 
+    {
+        "capacity": "21,017", 
+        "city": "Tamale, Ghana", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [-0.837541, 9.440933]}", 
+        "id": 7, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Tamale Stadium"
+    }, 
+    {
+        "capacity": "20,088", 
+        "city": "Sekondi-Takoradi", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [-1.736709, 4.946147]}", 
+        "id": 8, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Sekondi-Takoradi Stadium"
+    }, 
+    {
+        "capacity": "50,000", 
+        "city": "Luanda", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [13.199495, -9.004292]}", 
+        "id": 9, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Estdio 11 de Novembro"
+    }, 
+    {
+        "capacity": "20,000", 
+        "city": "Cabinda (city)", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [12.24, -5.52]}", 
+        "id": 10, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Estdio Nacional do Chiazi"
+    }, 
+    {
+        "capacity": "35,000", 
+        "city": "Benguela", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [13.40778, -12.58]}", 
+        "id": 11, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Estdio Nacional de Ombaka"
+    }, 
+    {
+        "capacity": "20,000", 
+        "city": "Lubango", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [15.012865, -14.84359]}", 
+        "id": 12, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Estdio Nacional da Tundavala"
+    }, 
+    {
+        "capacity": "37,500", 
+        "city": "Bata, Equatorial Guinea", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [9.79347, 1.855077]}", 
+        "id": 13, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Estadio de Bata"
+    }, 
+    {
+        "capacity": "40,000", 
+        "city": "Libreville", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [8.770841, -0.745846]}", 
+        "id": 14, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Stade d'Angondj"
+    }, 
+    {
+        "capacity": "15,250", 
+        "city": "Malabo", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [8.757188, 3.725428]}", 
+        "id": 15, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Nuevo Estadio de Malabo"
+    }, 
+    {
+        "capacity": "35,000", 
+        "city": "Franceville", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [13.589255, -1.634303]}", 
+        "id": 16, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Stade de Franceville"
+    }, 
+    {
+        "capacity": "94,700", 
+        "city": "Johannesburg", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [28.0328, -26.1633]}", 
+        "id": 17, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "FNB Stadium"
+    }, 
+    {
+        "capacity": "54,000", 
+        "city": "Durban", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [31.0292, -29.8579]}", 
+        "id": 18, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Moses Mabhida Stadium"
+    }, 
+    {
+        "capacity": "48,000", 
+        "city": "Port Elizabeth", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [30.96, -25.47]}", 
+        "id": 19, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Mbombela Stadium"
+    }, 
+    {
+        "capacity": "41,000", 
+        "city": "Nelspruit", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [27.3316, -25.6602]}", 
+        "id": 20, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Royal Bafokeng Stadium"
+    }, 
+    {
+        "capacity": "15,000", 
+        "city": "Mongomo", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [11.311491, 1.627745]}", 
+        "id": 21, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Estadio de Mongomo"
+    }, 
+    {
+        "capacity": "8,000", 
+        "city": "Ebebiyn", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [10.525771, 1.61213]}", 
+        "id": 22, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Nuevo Estadio de Ebebiyn"
+    }, 
+    {
+        "capacity": "20,000", 
+        "city": "Oyem", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [11.574081, 1.598894]}", 
+        "id": 23, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Stade d'Oyem"
+    }, 
+    {
+        "capacity": "20,000", 
+        "city": "Port-Gentil", 
+        "description": "<p><b>Christian Mougang Bassogog</b> (born October 18, 1995) is a Cameroonian footballer who currently plays for Henan Jianye in the Chinese Super League.</p>\n<p></p>\n\n<p></p>\n<h2><span id=\"Club_career\">Club career</span></h2>\n<h3><span id=\"Rainbow_FC\">Rainbow FC</span></h3>\n<p>Bassogog began his career in his native Cameroon at second division side Rainbow FC, graduating from the youth system.</p>\n<h3><span id=\"Wilmington_Hammerheads\">Wilmington Hammerheads</span></h3>\n<p>On April 29, 2015, Bassogog joined the United Soccer League club Wilmington Hammerheads.", 
+        "geometry": "{\"type\": \"Point\", \"coordinates\": [8.775819, -0.704394]}", 
+        "id": 24, 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsfzwx44y-XQMl_ynD5S65RlM13DAw8n1i_S-IGcWqYR0ydepH8jZIVw", 
+        "name": "Stade de Port-Gentil"
+    }
+]
+
+Process finished with exit code 0

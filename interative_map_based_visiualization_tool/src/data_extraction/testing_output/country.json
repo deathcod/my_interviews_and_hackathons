@@ -1,0 +1,87 @@
+/home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/myenv/bin/python /home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/src/data_extraction/index.py
+[
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/30px-Flag_of_Egypt.svg.png", 
+        "id": 0, 
+        "name": "Egypt", 
+        "url": "/wiki/Egypt_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/30px-Flag_of_Zambia.svg.png", 
+        "id": 1, 
+        "name": "Zambia", 
+        "url": "/wiki/Zambia_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/30px-Flag_of_Nigeria.svg.png", 
+        "id": 2, 
+        "name": "Nigeria", 
+        "url": "/wiki/Nigeria_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/30px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png", 
+        "id": 3, 
+        "name": "Ivory Coast", 
+        "url": "/wiki/Ivory_Coast_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/30px-Flag_of_Cameroon.svg.png", 
+        "id": 4, 
+        "name": "Cameroon", 
+        "url": "/wiki/Cameroon_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/30px-Flag_of_Ghana.svg.png", 
+        "id": 5, 
+        "name": "Ghana", 
+        "url": "/wiki/Ghana_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/30px-Flag_of_Burkina_Faso.svg.png", 
+        "id": 6, 
+        "name": "Burkina Faso", 
+        "url": "/wiki/Burkina_Faso_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/30px-Flag_of_Mali.svg.png", 
+        "id": 7, 
+        "name": "Mali", 
+        "url": "/wiki/Mali_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/30px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png", 
+        "id": 8, 
+        "name": "DR Congo", 
+        "url": "/wiki/DR_Congo_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/30px-Flag_of_Senegal.svg.png", 
+        "id": 9, 
+        "name": "Senegal", 
+        "url": "/wiki/Senegal_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/30px-Flag_of_Algeria.svg.png", 
+        "id": 10, 
+        "name": "Algeria", 
+        "url": "/wiki/Algeria_national_football_team"
+    }, 
+    {
+        "description": "<p>The <b>2012 Africa Cup of Nations</b>, also known as the <b>Orange Africa Cup of Nations</b> for sponsorship reasons, was the 28th edition of the Africa Cup of Nations, the football championship of Africa organized by the Confederation of African Football (CAF).</p>\n<p>The competition took place between 21 January and 12 February 2012 and was co-hosted by Equatorial Guinea and Gabon.", 
+        "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/30px-Flag_of_Equatorial_Guinea.svg.png", 
+        "id": 11, 
+        "name": "Equatorial Guinea", 
+        "url": "/wiki/Equatorial_Guinea_national_football_team"
+    }
+]

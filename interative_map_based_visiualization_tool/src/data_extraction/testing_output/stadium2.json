@@ -1,0 +1,79 @@
+[{
+	u 'city': u 'Cairo',
+	u 'capacity': u '74,100',
+	u 'description': u '<p>The <b>Cairo Stadium</b> or "Stad El Qahira El Dawly", is an Olympic-standard, multi-use stadium with an all-seated capacity of 75,000.',
+	u 'geometry': u '{"type": "Point", "coordinates": [31.360289, 30.087306]}',
+	u 'image': u 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiooXJXDzcbcxHcTKOgkuDI-ocBdgrHJB6e7Y6SiczPobEHN66ihnwpr4',
+	u 'id': 0,
+	u 'name': u 'Cairo International Stadium'
+}, {
+	u 'city': u 'Cairo',
+	u 'capacity': u '25,500',
+	u 'description': u '<p>The <b>Cairo Military Academy Stadium</b> (Arabic: <span lang="ar" dir="rtl" xml:lang="ar">\u0625\u0633\u062a\u0627\u062f \u0627\u0644\u0643\u064 ... (112 characters truncated) ... \u200e\u200e <i>Ist\u0101d al-Kull\u012byah al-\u1e24arb\u012byah bil-Q\u0101hira</i>) is located in Cairo, Egypt and has a total capacity of 28,500.',
+	u 'geometry': u '{"type": "Point", "coordinates": [31.23944, 30.05611]}',
+	u 'image': u 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSr20yj6aJ8sG_FiGait8T2ymYaWzwJR-3wA54k4tEfk95L1wKOOoAnxY',
+	u 'id': 1,
+	u 'name': u 'Cairo Military Academy Stadium'
+}, {
+	u 'city': u 'Alexandria',
+	u 'capacity': u '21,650',
+	u 'description': u '<ul><li><b>From a page move</b>: This is a redirect from a page that has been moved (renamed).',
+	u 'geometry': u '{"type": "Point", "coordinates": [32.28333, 31.25]}',
+	u 'image': u 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGzmQr_0idMZmg_SLBowTUFQlCtFa7paKR9tMGQC4d0WfxheHkCDRpPA',
+	u 'id': 2,
+	u 'name': u 'Harras El-Hedoud Stadium'
+}, {
+	u 'city': u 'Port Said',
+	u 'capacity': u '24,060',
+	u 'description': u '<p><b>Port Said Stadium</b> (Arabic: <span lang="ar" dir="rtl" xml:lang="ar">\u0633\u062a\u0627\u062f \u0628\u0648\u0631\u0633\u0639\u064a\u062f</span>\u200e\u200e) or "Stad B\u016br Sa\'\u012bd", is a multi-use stadium with an all-seated capacity of 39,988.',
+	u 'geometry': u '{"type": "Point", "coordinates": [29.91667, 31.2]}',
+	u 'image': u 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tZfPoqf7d7CtpsdWUY7KLZW121Q23yV0Xz5x-ffavCBsUGFpvFjzdzI',
+	u 'id': 3,
+	u 'name': u 'Port Said Stadium'
+}, {
+	u 'city': u 'Alexandria',
+	u 'capacity': u '19,676',
+	u 'description': u '<p><b>Alexandria Stadium</b> (Arabic: <span lang="ar" dir="rtl" xml:lang="ar">\u0625\u0633\u062a\u0627\u062f \u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629</span>\u200e\u200e) is a multi-purpose stadium in Alexandria, Egypt.',
+	u 'geometry': u '{"type": "Point", "coordinates": [32.266669, 30.58333]}',
+	u 'image': u 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLysUiaV_N-c5D1_-Px5eNZlDPE5aGrW1be8o7MiLtcIhBtZYId8a2bAU',
+	u 'id': 4,
+	u 'name': u 'Alexandria Stadium'
+}, {
+	u 'city': u 'Ismailia',
+	u 'capacity': u '16,606',
+	u 'description': u '<p>The <b>Ismailia Stadium</b> (Arabic: <span lang="ar" dir="rtl" xml:lang="ar">\u0645\u0644\u0639\u0628 \u0627\u0644\u0627\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629</span>\u200e\u200e) is located in Ismailia, Egypt, and has a total capacity of 18,000, after the remodelation in 2009.',
+	u 'geometry': u '{"type": "Point", "coordinates": [-0.202815, 5.661083]}',
+	u 'image': u 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnbAOMG0iX9GorQe3fQdNbjqUgu6DsfqbZlkfZljhxziwUAxLyaWTLkA',
+	u 'id': 5,
+	u 'name': u 'Ismailia Stadium'
+}, {
+	u 'city': u 'Accra',
+	u 'capacity': u '40,000',
+	u 'description': u '',
+	u 'geometry': u '{"type": "Point", "coordinates": [-1.613894, 6.708083]}',
+	u 'image': u 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98k_FGRxHoYF8phgxQ3_xxu6hSmj3kBWmeiBjoKRLVZS2NoVknH2uZkk',
+	u 'id': 6,
+	u 'name': u 'Ohene Djan Stadium'
+}, {
+	u 'city': u 'Kumasi',
+	u 'capacity': u '40,528',
+	u 'description': u '<p><b>Baba Yara Sports Stadium</b> (also <b>Kumasi Sports Stadium</b>) is a multi-purpose stadium in Kumasi, Ashanti.',
+	u 'geometry': u '{"type": "Point", "coordinates": [-0.837541, 9.440933]}',
+	u 'image': u 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7R-X8ILVjqvaI2VFgGx80DxtfJPfi9_m50BkOQ0V5ISpgziOwbaFJw',
+	u 'id': 7,
+	u 'name': u 'Baba Yara Stadium'
+}...displaying 10 of 27 total bound parameter sets...{
+	u 'city': u 'Oyem',
+	u 'capacity': u '20,000',
+	u 'description': u "<p>The <b>Stade d'Oyem</b> is a stadium in Oyem, Gabon.",
+	u 'image': u 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcO3GG3_g59EcBdKPpMnnSJKATo0cxB8jIM8MjxA_JFe8qb27SWa8igw',
+	u 'id': 25,
+	u 'name': u "Stade d'Oyem"
+}, {
+	u 'city': u 'Port-Gentil',
+	u 'capacity': u '20,000',
+	u 'description': u '<p>The <b>Stade de Port-Gentil</b> is a stadium in Port-Gentil, Gabon.',
+	u 'image': u 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_JszsNEn4-8wpTXyNo3KfpMw92dE-aGl4mT85vX2uCBGjU9664tHd2o',
+	u 'id': 26,
+	u 'name': u 'Stade de Port-Gentil'
+}]

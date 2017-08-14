@@ -1,0 +1,15 @@
+TIME: 0 - (WARN):Bogus RSYNC_PATTERN_FIRST value in config file. Will not use rsync patterns.
+TIME: 0 - (CRITICAL):Bogus SUDO_EXEC value [] defined in config file. Correct your config file or update it using the update script if using and old version.
+TIME: 0 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:07:15 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 20999)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 0 - Checking minimum disk space in remote replica [/home/device2/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.

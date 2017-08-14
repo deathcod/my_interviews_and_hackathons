@@ -1,0 +1,89 @@
+/home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/myenv/bin/python /home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/src/data_extraction/scrapping.py
+{
+    "logo": [
+        "//upload.wikimedia.org/wikipedia/en/thumb/e/ec/2006_Africa_Cup_of_Nations_logo.svg/150px-2006_Africa_Cup_of_Nations_logo.svg.png"
+    ], 
+    "player": {
+        "best-player": {
+            "country": [
+                "Egypt"
+            ], 
+            "player-name": [
+                "Ahmed Hassan"
+            ]
+        }, 
+        "top-scorer": {
+            "country": [
+                "Cameroon"
+            ], 
+            "goals-scored": "5 goals", 
+            "player-name": [
+                "Samuel Eto'o"
+            ]
+        }
+    }, 
+    "stadium": {
+        "capacity": [
+            "74,100", 
+            "25,500", 
+            "21,650", 
+            "24,060", 
+            "19,676", 
+            "16,606"
+        ], 
+        "city": [
+            [
+                "/wiki/Cairo", 
+                "Cairo"
+            ], 
+            [
+                "/wiki/Cairo", 
+                "Cairo"
+            ], 
+            [
+                "/wiki/Alexandria", 
+                "Alexandria"
+            ], 
+            [
+                "/wiki/Port_Said", 
+                "Port Said"
+            ], 
+            [
+                "/wiki/Alexandria", 
+                "Alexandria"
+            ], 
+            [
+                "/wiki/Ismailia", 
+                "Ismailia"
+            ]
+        ], 
+        "stadium_name": [
+            [
+                "/wiki/Cairo_International_Stadium", 
+                "Cairo International Stadium"
+            ], 
+            [
+                "/wiki/Cairo_Military_Academy_Stadium", 
+                "Cairo Military Academy Stadium"
+            ], 
+            [
+                "/wiki/Harras_El-Hedoud_Stadium", 
+                "Harras El-Hedoud Stadium"
+            ], 
+            [
+                "/wiki/Port_Said_Stadium", 
+                "Port Said Stadium"
+            ], 
+            [
+                "/wiki/Alexandria_Stadium", 
+                "Alexandria Stadium"
+            ], 
+            [
+                "/wiki/Ismailia_Stadium", 
+                "Ismailia Stadium"
+            ]
+        ]
+    }
+}
+
+Process finished with exit code 0

@@ -1,0 +1,20 @@
+language: python
+sudo: enabled
+dist: trusty
+deploy:
+  provider: heroku
+  api_key:
+    secure: "eab63f03-f520-40e4-9374-cea7fbdbff5c"
+  app: interative-map-based-visiualiz
+  buildpack: python
+
+python:
+  - "2.7.13"
+
+before_script:
+  - pip install --upgrade pip
+
+install:
+  - python setup.py sdist install
+
+script: pytest

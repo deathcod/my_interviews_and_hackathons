@@ -1,0 +1,1211 @@
+TIME: 9 - Creating initiator replica file list [/home/device3/D/].
+TIME: 9 - Creating target replica file list [/home/device1/D/].
+TIME: 10 - Finished synchronization task.
+TIME: 10 - Running conflict backup cleanup.
+TIME: 10 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 10 - File cleanup complete on initiator replica.
+TIME: 10 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 11 - Cleanup complete on target replica.
+TIME: 11 - Running soft deletion cleanup.
+TIME: 11 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 11 - File cleanup complete on initiator replica.
+TIME: 11 - Directory cleanup complete on initiator replica.
+TIME: 12 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 12 - Cleanup complete on target replica.
+TIME: 13 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:30:17 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 25477)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:33:28 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 27134)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:33:39 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 28624)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:35:02 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 30213)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:35:13 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 31700)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 5 - Propagating deletions to initiator replica.
+TIME: 5 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:35:35 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 735)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:35:46 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 2210)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:48:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 4189)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 12:48:12 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 5752)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 7 - Propagating deletions to initiator replica.
+TIME: 7 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 12:49:02 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_1] launched as device3@kali (PID 7341)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:49:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 8818)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:50:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 10320)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:50:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 11818)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:51:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 13334)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:51:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 14818)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:52:02 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 16321)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 5 - Propagating deletions to initiator replica.
+TIME: 5 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:52:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 17792)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:53:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 19269)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:53:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 20779)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:54:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 22283)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:54:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 23783)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:55:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 25292)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:55:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 26789)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 5 - Propagating deletions to initiator replica.
+TIME: 5 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:56:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 28262)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:56:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 29743)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:57:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 31310)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:57:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 326)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 5 - Propagating deletions to initiator replica.
+TIME: 5 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 12:58:02 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_1] launched as device3@kali (PID 1856)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 5 - Creating initiator replica deleted file list.
+TIME: 5 - Creating target replica deleted file list.
+TIME: 5 - Updating target replica.
+TIME: 6 - Updating target replica succeded.
+TIME: 6 - Updating initiator replica.
+TIME: 7 - Updating initiator replica succeded.
+TIME: 7 - Propagating deletions to initiator replica.
+TIME: 7 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 9 - Finished synchronization task.
+TIME: 9 - Running conflict backup cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 10 - Running soft deletion cleanup.
+TIME: 10 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 10 - File cleanup complete on initiator replica.
+TIME: 10 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 11 - Cleanup complete on target replica.
+TIME: 12 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:58:13 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 3621)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 12:59:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 5168)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 12:59:12 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 6657)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:00:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 8157)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:00:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 9689)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:01:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 11225)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:01:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 12715)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:02:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 14215)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:02:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 15723)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:03:02 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 17205)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.

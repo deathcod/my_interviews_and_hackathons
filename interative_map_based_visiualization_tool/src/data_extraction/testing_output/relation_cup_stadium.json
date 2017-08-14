@@ -1,0 +1,191 @@
+/home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/myenv/bin/python /home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/src/data_extraction/arrange_data.py
+[
+    {
+        "country_id": 0, 
+        "cup_id": 0, 
+        "id": 0, 
+        "stadium_id": 0
+    }, 
+    {
+        "country_id": 0, 
+        "cup_id": 0, 
+        "id": 1, 
+        "stadium_id": 1
+    }, 
+    {
+        "country_id": 0, 
+        "cup_id": 0, 
+        "id": 2, 
+        "stadium_id": 2
+    }, 
+    {
+        "country_id": 0, 
+        "cup_id": 0, 
+        "id": 3, 
+        "stadium_id": 3
+    }, 
+    {
+        "country_id": 0, 
+        "cup_id": 0, 
+        "id": 4, 
+        "stadium_id": 4
+    }, 
+    {
+        "country_id": 0, 
+        "cup_id": 0, 
+        "id": 5, 
+        "stadium_id": 5
+    }, 
+    {
+        "country_id": 5, 
+        "cup_id": 1, 
+        "id": 6, 
+        "stadium_id": 6
+    }, 
+    {
+        "country_id": 5, 
+        "cup_id": 1, 
+        "id": 7, 
+        "stadium_id": 7
+    }, 
+    {
+        "country_id": 5, 
+        "cup_id": 1, 
+        "id": 8, 
+        "stadium_id": 8
+    }, 
+    {
+        "country_id": 5, 
+        "cup_id": 1, 
+        "id": 9, 
+        "stadium_id": 9
+    }, 
+    {
+        "country_id": 12, 
+        "cup_id": 2, 
+        "id": 10, 
+        "stadium_id": 10
+    }, 
+    {
+        "country_id": 12, 
+        "cup_id": 2, 
+        "id": 11, 
+        "stadium_id": 11
+    }, 
+    {
+        "country_id": 12, 
+        "cup_id": 2, 
+        "id": 12, 
+        "stadium_id": 12
+    }, 
+    {
+        "country_id": 12, 
+        "cup_id": 2, 
+        "id": 13, 
+        "stadium_id": 13
+    }, 
+    {
+        "country_id": 13, 
+        "cup_id": 3, 
+        "id": 14, 
+        "stadium_id": 14
+    }, 
+    {
+        "country_id": 13, 
+        "cup_id": 3, 
+        "id": 15, 
+        "stadium_id": 15
+    }, 
+    {
+        "country_id": 13, 
+        "cup_id": 3, 
+        "id": 16, 
+        "stadium_id": 16
+    }, 
+    {
+        "country_id": 13, 
+        "cup_id": 3, 
+        "id": 17, 
+        "stadium_id": 17
+    }, 
+    {
+        "country_id": 11, 
+        "cup_id": 4, 
+        "id": 18, 
+        "stadium_id": 18
+    }, 
+    {
+        "country_id": 11, 
+        "cup_id": 4, 
+        "id": 19, 
+        "stadium_id": 19
+    }, 
+    {
+        "country_id": 11, 
+        "cup_id": 4, 
+        "id": 20, 
+        "stadium_id": 20
+    }, 
+    {
+        "country_id": 11, 
+        "cup_id": 4, 
+        "id": 21, 
+        "stadium_id": 21
+    }, 
+    {
+        "country_id": 11, 
+        "cup_id": 4, 
+        "id": 22, 
+        "stadium_id": 22
+    }, 
+    {
+        "country_id": 14, 
+        "cup_id": 5, 
+        "id": 23, 
+        "stadium_id": 14
+    }, 
+    {
+        "country_id": 14, 
+        "cup_id": 5, 
+        "id": 24, 
+        "stadium_id": 16
+    }, 
+    {
+        "country_id": 14, 
+        "cup_id": 5, 
+        "id": 25, 
+        "stadium_id": 23
+    }, 
+    {
+        "country_id": 14, 
+        "cup_id": 5, 
+        "id": 26, 
+        "stadium_id": 24
+    }, 
+    {
+        "country_id": 11, 
+        "cup_id": 6, 
+        "id": 27, 
+        "stadium_id": 15
+    }, 
+    {
+        "country_id": 11, 
+        "cup_id": 6, 
+        "id": 28, 
+        "stadium_id": 17
+    }, 
+    {
+        "country_id": 11, 
+        "cup_id": 6, 
+        "id": 29, 
+        "stadium_id": 25
+    }, 
+    {
+        "country_id": 11, 
+        "cup_id": 6, 
+        "id": 30, 
+        "stadium_id": 26
+    }
+]
+
+Process finished with exit code 0

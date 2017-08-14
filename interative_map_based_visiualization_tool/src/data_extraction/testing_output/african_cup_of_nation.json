@@ -1,0 +1,200 @@
+{
+    "country_1": {
+        "flag": [
+            "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/30px-Flag_of_Egypt.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/30px-Flag_of_Egypt.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/30px-Flag_of_Egypt.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/30px-Flag_of_Zambia.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/30px-Flag_of_Nigeria.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/30px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/30px-Flag_of_Cameroon.svg.png"
+        ], 
+        "name": [
+            "Egypt", 
+            "Egypt", 
+            "Egypt", 
+            "Zambia", 
+            "Nigeria", 
+            "Ivory Coast", 
+            "Cameroon"
+        ], 
+        "url": [
+            "/wiki/Egypt_national_football_team", 
+            "/wiki/Egypt_national_football_team", 
+            "/wiki/Egypt_national_football_team", 
+            "/wiki/Zambia_national_football_team", 
+            "/wiki/Nigeria_national_football_team", 
+            "/wiki/Ivory_Coast_national_football_team", 
+            "/wiki/Cameroon_national_football_team"
+        ]
+    }, 
+    "country_2": {
+        "flag": [
+            "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/30px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/30px-Flag_of_Cameroon.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/30px-Flag_of_Ghana.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/30px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/30px-Flag_of_Burkina_Faso.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/30px-Flag_of_Ghana.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/30px-Flag_of_Egypt.svg.png"
+        ], 
+        "name": [
+            "Ivory Coast", 
+            "Cameroon", 
+            "Ghana", 
+            "Ivory Coast", 
+            "Burkina Faso", 
+            "Ghana", 
+            "Egypt"
+        ], 
+        "url": [
+            "/wiki/Ivory_Coast_national_football_team", 
+            "/wiki/Cameroon_national_football_team", 
+            "/wiki/Ghana_national_football_team", 
+            "/wiki/Ivory_Coast_national_football_team", 
+            "/wiki/Burkina_Faso_national_football_team", 
+            "/wiki/Ghana_national_football_team", 
+            "/wiki/Egypt_national_football_team"
+        ]
+    }, 
+    "country_3": {
+        "flag": [
+            "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/30px-Flag_of_Nigeria.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/30px-Flag_of_Ghana.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/30px-Flag_of_Nigeria.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/30px-Flag_of_Mali.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/30px-Flag_of_Mali.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/30px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/30px-Flag_of_Burkina_Faso.svg.png"
+        ], 
+        "name": [
+            "Nigeria", 
+            "Ghana", 
+            "Nigeria", 
+            "Mali", 
+            "Mali", 
+            "DR Congo", 
+            "Burkina Faso"
+        ], 
+        "url": [
+            "/wiki/Nigeria_national_football_team", 
+            "/wiki/Ghana_national_football_team", 
+            "/wiki/Nigeria_national_football_team", 
+            "/wiki/Mali_national_football_team", 
+            "/wiki/Mali_national_football_team", 
+            "/wiki/DR_Congo_national_football_team", 
+            "/wiki/Burkina_Faso_national_football_team"
+        ]
+    }, 
+    "country_4": {
+        "flag": [
+            "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/30px-Flag_of_Senegal.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/30px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/30px-Flag_of_Algeria.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/30px-Flag_of_Ghana.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/30px-Flag_of_Ghana.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/30px-Flag_of_Equatorial_Guinea.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/30px-Flag_of_Ghana.svg.png"
+        ], 
+        "name": [
+            "Senegal", 
+            "Ivory Coast", 
+            "Algeria", 
+            "Ghana", 
+            "Ghana", 
+            "Equatorial Guinea", 
+            "Ghana"
+        ], 
+        "url": [
+            "/wiki/Senegal_national_football_team", 
+            "/wiki/Ivory_Coast_national_football_team", 
+            "/wiki/Algeria_national_football_team", 
+            "/wiki/Ghana_national_football_team", 
+            "/wiki/Ghana_national_football_team", 
+            "/wiki/Equatorial_Guinea_national_football_team", 
+            "/wiki/Ghana_national_football_team"
+        ]
+    }, 
+    "host_country": {
+        "flag": [
+            "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png", 
+            "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png"
+        ], 
+        "name": [
+            "Egypt", 
+            "Ghana", 
+            "Angola", 
+            "Gabon", 
+            "Equatorial Guinea", 
+            "South Africa", 
+            "Equatorial Guinea", 
+            "Gabon"
+        ], 
+        "url": [
+            "/wiki/Egypt", 
+            "/wiki/Ghana", 
+            "/wiki/Angola", 
+            "/wiki/Gabon", 
+            "/wiki/Equatorial_Guinea", 
+            "/wiki/South_Africa", 
+            "/wiki/Equatorial_Guinea", 
+            "/wiki/Gabon"
+        ]
+    }, 
+    "score1": [
+        [
+            "0-0", 
+            "4-2"
+        ], 
+        [
+            "1-0"
+        ], 
+        [
+            "1-0"
+        ], 
+        [
+            "0-0", 
+            "8-7"
+        ], 
+        [
+            "1-0"
+        ], 
+        [
+            "0-0", 
+            "9-8"
+        ], 
+        [
+            "2-1"
+        ]
+    ], 
+    "score2": [
+        [
+            "1-0"
+        ], 
+        [
+            "4-2"
+        ], 
+        [
+            "1-0"
+        ], 
+        [
+            "2-0"
+        ], 
+        [
+            "3-1"
+        ], 
+        [
+            "0-0", 
+            "4-2"
+        ], 
+        [
+            "1-0"
+        ]
+    ]
+}

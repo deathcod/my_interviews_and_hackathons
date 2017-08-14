@@ -1,0 +1,145 @@
+/home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/myenv/bin/python /home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/src/data_extraction/arrange_data.py
+[
+    {
+        "country_id": 4, 
+        "cup_id": 0, 
+        "id": 0, 
+        "player_id": 0, 
+        "special_event": "5 goals"
+    }, 
+    {
+        "country_id": 0, 
+        "cup_id": 0, 
+        "id": 1, 
+        "player_id": 1, 
+        "special_event": "best-player"
+    }, 
+    {
+        "country_id": 4, 
+        "cup_id": 1, 
+        "id": 2, 
+        "player_id": 0, 
+        "special_event": "5 goals"
+    }, 
+    {
+        "country_id": 0, 
+        "cup_id": 1, 
+        "id": 3, 
+        "player_id": 2, 
+        "special_event": "best-player"
+    }, 
+    {
+        "country_id": 0, 
+        "cup_id": 2, 
+        "id": 4, 
+        "player_id": 3, 
+        "special_event": "5 goals"
+    }, 
+    {
+        "country_id": 0, 
+        "cup_id": 2, 
+        "id": 5, 
+        "player_id": 1, 
+        "special_event": "best-player"
+    }, 
+    {
+        "country_id": 12, 
+        "cup_id": 3, 
+        "id": 6, 
+        "player_id": 4, 
+        "special_event": "3 goals"
+    }, 
+    {
+        "country_id": 13, 
+        "cup_id": 3, 
+        "id": 7, 
+        "player_id": 5, 
+        "special_event": "3 goals"
+    }, 
+    {
+        "country_id": 3, 
+        "cup_id": 3, 
+        "id": 8, 
+        "player_id": 6, 
+        "special_event": "3 goals"
+    }, 
+    {
+        "country_id": 7, 
+        "cup_id": 3, 
+        "id": 9, 
+        "player_id": 7, 
+        "special_event": "3 goals"
+    }, 
+    {
+        "country_id": 1, 
+        "cup_id": 3, 
+        "id": 10, 
+        "player_id": 8, 
+        "special_event": "3 goals"
+    }, 
+    {
+        "country_id": 1, 
+        "cup_id": 3, 
+        "id": 11, 
+        "player_id": 9, 
+        "special_event": "3 goals"
+    }, 
+    {
+        "country_id": 1, 
+        "cup_id": 3, 
+        "id": 12, 
+        "player_id": 8, 
+        "special_event": "best-player"
+    }, 
+    {
+        "country_id": 2, 
+        "cup_id": 4, 
+        "id": 13, 
+        "player_id": 10, 
+        "special_event": "4 goals"
+    }, 
+    {
+        "country_id": 5, 
+        "cup_id": 4, 
+        "id": 14, 
+        "player_id": 11, 
+        "special_event": "4 goals"
+    }, 
+    {
+        "country_id": 6, 
+        "cup_id": 4, 
+        "id": 15, 
+        "player_id": 12, 
+        "special_event": "best-player"
+    }, 
+    {
+        "country_id": 5, 
+        "cup_id": 5, 
+        "id": 16, 
+        "player_id": 13, 
+        "special_event": "3 goals"
+    }, 
+    {
+        "country_id": 11, 
+        "cup_id": 5, 
+        "id": 17, 
+        "player_id": 14, 
+        "special_event": "3 goals"
+    }, 
+    {
+        "country_id": 5, 
+        "cup_id": 5, 
+        "id": 18, 
+        "player_id": 15, 
+        "special_event": "best-player"
+    }, 
+    {
+        "country_id": 4, 
+        "cup_id": 6, 
+        "id": 19, 
+        "player_id": 16, 
+        "special_event": "best-player"
+    }
+]
+
+Process finished with exit code 0

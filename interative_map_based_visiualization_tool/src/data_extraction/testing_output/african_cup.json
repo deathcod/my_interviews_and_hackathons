@@ -1,0 +1,40 @@
+/home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/myenv/bin/python /home/deathcoder007/Desktop/college_work/hell/interative_map_based_visiualization_tool/src/data_extraction/arrange_data.py
+[
+    {
+        "id": 0, 
+        "logo": "//upload.wikimedia.org/wikipedia/en/thumb/e/ec/2006_Africa_Cup_of_Nations_logo.svg/150px-2006_Africa_Cup_of_Nations_logo.svg.png", 
+        "year": 2006
+    }, 
+    {
+        "id": 1, 
+        "logo": "//upload.wikimedia.org/wikipedia/en/thumb/9/93/2008_Africa_Cup_of_Nations_logo.svg/150px-2008_Africa_Cup_of_Nations_logo.svg.png", 
+        "year": 2008
+    }, 
+    {
+        "id": 2, 
+        "logo": "//upload.wikimedia.org/wikipedia/en/thumb/f/f3/2010_Africa_Cup_of_Nations_logo.svg/180px-2010_Africa_Cup_of_Nations_logo.svg.png", 
+        "year": 2010
+    }, 
+    {
+        "id": 3, 
+        "logo": "//upload.wikimedia.org/wikipedia/en/thumb/0/03/2012_Africa_Cup_of_Nations_logo.png/180px-2012_Africa_Cup_of_Nations_logo.png", 
+        "year": 2012
+    }, 
+    {
+        "id": 4, 
+        "logo": "//upload.wikimedia.org/wikipedia/en/thumb/d/d0/2013_Africa_Cup_of_Nations.png/200px-2013_Africa_Cup_of_Nations.png", 
+        "year": 2013
+    }, 
+    {
+        "id": 5, 
+        "logo": "//upload.wikimedia.org/wikipedia/en/thumb/4/4e/2015_Africa_Cup_of_Nations_logo.png/220px-2015_Africa_Cup_of_Nations_logo.png", 
+        "year": 2015
+    }, 
+    {
+        "id": 6, 
+        "logo": "//upload.wikimedia.org/wikipedia/en/thumb/8/86/2017_Africa_Cup_of_Nations_logo.png/220px-2017_Africa_Cup_of_Nations_logo.png", 
+        "year": 2017
+    }
+]
+
+Process finished with exit code 0

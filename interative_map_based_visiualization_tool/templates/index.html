@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset='utf-8' />
+      <title>Interactive map based visualization of African cup of nation</title>
+      <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+      <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
+      <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.38.0/mapbox-gl.js'></script>
+      <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.38.0/mapbox-gl.css' rel='stylesheet' />
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      
+      <script src="static/js/stadium.js"></script>
+      <script src="static/js/country.js"></script>
+      <script src="static/js/player.js"></script>
+      <link rel="stylesheet" type="text/css" href="static/css/layout.css"/>
+  </head>
+
+  <body>
+    <div class='sidebar'>
+      <div class='heading'>
+        <h1>Stadiums</h1>
+      </div>
+    <div id='listings' class='listings'></div>
+    </div>
+    <div id='map' class='map'> </div>
+
+    <!-- <div id="console_dashboard" style="display: none;">
+    I am ultimate
+    </div> -->
+
+   <div id='console' style=" height: 300px; width: 280px; padding: 4px;">
+    <div id='sliderbar' class="row" class="beautify" style="background-color: white;  height: 27.5%; width: 100%; padding: 4px;">
+        <input id='slider' type='range' min='0' max='6' value='0' step='1' class="beautify" style=" height: 45%; width: 91%; padding: 4px;"/>
+        <div id='span_slider' class="beautify" style=" height: 35%; width: 18%; float: left; font-size: 18px; text-align: right;">2006</div>
+        <div class="beautify" style=" height: 40%; width: 80%; float: left; font-size: 18px; text-align: left;"><b>African Cup of Nations</b></div>
+    </div>
+    <div id="slider_animate" class="beautify" style=" background-color: white;  height: 210px; width: 100%">
+      <img id="logo" class="beautify" style=" height: 100%; width: 55%; float:left;"/>
+      <div class="beautify" style=" height: 100%; width: 37%; margin-left: 56%;">
+        <div class="beautify" style=" height: 19%; width: 98%; float:left;">
+          <div class="beautify" style=" height: 98%; width: 29%; float:left; background-color: #00ff08"></div>
+          <div id="host_country" class="beautify" style=" height: 98%; width: 68%; float:left;"></div>
+        </div>
+        <div class="beautify" style=" height: 39%; width: 98%;float:left;">
+          <div class="beautify" style=" height: 98%; width: 29%; float:left;">
+              <div class="beautify" style=" height: 49%; width: 98%; background-color: #ff0000"></div>
+              <div class="beautify" style=" height: 49%; width: 98%; background-color: #FF5733"></div>
+            </div>
+            <div class="beautify" style=" height: 98%; width: 68%; float:left;">
+              <div id="c1" class="beautify" style=" height: 33%; width: 98%;"></div>
+              <div id="s1" class="beautify" style=" height: 30%; width: 98%;"></div>
+                <div id="c2" class="beautify" style=" height: 33%; width: 98%;"></div>
+            </div>
+        </div>
+        <div class="beautify" style=" height: 39%; width: 98%;float:left;">
+          <div class="beautify" style=" height: 98%; width: 29%; float:left;">
+              <div class="beautify" style=" height: 49%; width: 98%; background-color: #FFC300"></div>
+              <div class="beautify" style=" height: 49%; width: 98%; background-color: #f7dc6f"></div>
+            </div>
+            <div class="beautify" style=" height: 98%; width: 68%; float:left;">
+              <div id="c3" class="beautify" style=" height: 33%; width: 98%;"></div>
+              <div id="s2" class="beautify" style=" height: 30%; width: 98%;"></div>
+                <div id="c4" class="beautify" style=" height: 33%; width: 98%;"></div>
+            </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  <script>
+
+  // This will let you use the .remove() function later on
+  if (!('remove' in Element.prototype)) {
+    Element.prototype.remove = function() {
+      if (this.parentNode) {
+          this.parentNode.removeChild(this);
+      }
+    };
+  }
+
+CENTER = [26.635313, 1.636283];
+
+  mapboxgl.accessToken = 'pk.eyJ1IjoiZGVhdGhjb2RlcjA3IiwiYSI6ImNqNTQzMHIxbTBleWUyeHA2Z3h3a3d6azYifQ.Prvqq5SEZhsHIgKZuEZgwQ';
+
+  var map = new mapboxgl.Map({
+
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v9',
+    center: CENTER,
+    zoom :2.5,
+    minZoom: 2.5
+  });
+
+  map.on('load')
+  {
+      //stadium
+      callAPI(DEPLOY = true, DATA = JSON.stringify({"main_id" : "2", "id" : "2"}), id = 2)
+
+      //country
+      callAPI(DEPLOY = true, DATA = JSON.stringify({"main_id" : "2", "id" : "1"}), id = 1)
+
+      //player
+      callAPI(DEPLOY = true, DATA = JSON.stringify({"main_id" : "2", "id" : "3"}), id = 3)      
+  }
+  
+  function callAPI(DEPLOY = false, DATA = "{}", id = -1) {
+      
+      if (DEPLOY == true)
+          URL = "https://interative-map-based-visiualiz.herokuapp.com/query"
+      else
+          URL = "http://127.0.0.1:5000/query"
+      $.ajax({
+          type: "POST",
+          url: URL,
+          contentType: 'application/json',
+          data: DATA,
+          success: function(data){
+
+            if(id == 2)
+              process_stadium(data);
+            else if(id == 1)
+              process_country(data);
+            else if(id == 3)
+              process_player(data);
+            else
+              console.log(data);
+          }
+      });
+  }
+
+  function flyToStore(currentFeature) {
+    map.flyTo({
+        center: currentFeature.geometry.coordinates,
+        zoom: 4
+      });
+  }
+
+  function createPopUp(currentFeature, who_called) {
+    var popUps = document.getElementsByClassName('mapboxgl-popup');
+    if (popUps[0]) popUps[0].remove();
+
+    // $("#console_dashboard").show(function(){$(this).animate({width: '300px'},350)});
+    
+    var geoloc;
+    if('temp_latlong' in currentFeature)
+    {
+      geoloc = currentFeature.temp_latlong;
+    }
+    else
+    {
+      geoloc = currentFeature.geometry.coordinates;
+    }
+
+    // if(!('properties' in currentFeature))
+    // {
+    //   currentFeature = currentFeature.features[0]
+    // }
+
+    var show_html = "<h3>"
+    var popup = new mapboxgl.Popup()
+          .setLngLat(geoloc)
+          .setHTML('<h3 ><img id="flag" style="width: 30px; height: 20px; float:left;"></img><div id="name" style="margin-left:35px;">'+currentFeature.properties.name+'</div><span id="close"></span></h3>' +
+            '<div style="padding: 10px;""><img id="image"/></div>'+
+            '<img id="edit" src="http://www.freeiconspng.com/uploads/edit-icon-png-24.png"/><div id="edit_div">' + currentFeature.properties.description + '</div>')
+          .addTo(map);
+
+    $("#close").on("click", function(){
+        popup.remove();
+        // $("#console_dashboard").animate({width:'0px'},350, function(){
+        //   $(this).hide();
+        // });
+    });
+
+    var editing = true;
+    var divHTML, editableText;
+
+    $("#edit").on("click", function(){
+      if(editing == true)
+      {
+        editing = false;
+        $(this).attr("src", "http://cdn.onlinewebfonts.com/svg/img_75720.svg");
+        divHTML = $("#edit_div").html();
+        editableText =  $('<textarea rows="10 cols="50" maxlength="800"/>')
+        editableText.val(divHTML);
+        $("#edit_div").replaceWith(editableText);
+        editableText.attr("id","edit_div");
+        editableText.focus();
+      }
+      else
+      {
+        editing = true;
+        $(this).attr("src", "http://www.freeiconspng.com/uploads/edit-icon-png-24.png");
+        var viewableText = $("<div>");
+        viewableText.html(editableText.val());
+        currentFeature.properties.description = editableText.val();
+        $("#edit_div").replaceWith(viewableText);
+        viewableText.attr("id","edit_div");
+
+        var id;
+        if(who_called == "country")
+          id = '1'
+        else if(who_called == "stadium")
+          id = '2'
+        else if(who_called == "player")
+          id = '3'
+
+        var data = {
+          "main_id" : '3',
+          "id": id,
+          "data" : {
+            "description" : currentFeature.properties.description,
+            "id" : currentFeature.properties.id
+          }
+        }
+        console.log(data);
+        callAPI(DEPLOY = true, DATA = JSON.stringify(data), id = -1);
+      }
+    })
+
+
+    if('flag' in currentFeature.properties)
+    {
+      $("#flag").attr("src", "https:"+currentFeature.properties.flag);
+      $("#image").parent().css("display", "none");
+    }
+    else
+    {
+      $("#image").attr("src", currentFeature.properties.image);
+      $("#name").css("margin-left", "0px");
+    }
+  }
+
+    </script>
+  </body>
+</html>

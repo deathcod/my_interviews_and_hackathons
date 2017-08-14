@@ -1,0 +1,1936 @@
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:25:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 528)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:25:13 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 2101)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 7 - Propagating deletions to initiator replica.
+TIME: 7 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 12 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:26:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 3882)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:26:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 5453)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:27:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 7020)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:27:13 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 8626)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 6 - Updating target replica succeded.
+TIME: 6 - Updating initiator replica.
+TIME: 7 - Updating initiator replica succeded.
+TIME: 7 - Propagating deletions to initiator replica.
+TIME: 7 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - Running soft deletion cleanup.
+TIME: 10 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 10 - File cleanup complete on initiator replica.
+TIME: 10 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 11 - Cleanup complete on target replica.
+TIME: 12 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:28:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 10213)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:28:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 11788)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:29:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 13393)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 5 - Propagating deletions to initiator replica.
+TIME: 5 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:29:11 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 15052)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:30:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 16800)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 4 - Starting synchronization task.
+TIME: 4 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica file list [/home/device3/D/].
+TIME: 5 - Creating initiator replica deleted file list.
+TIME: 5 - Creating target replica deleted file list.
+TIME: 5 - Updating target replica.
+TIME: 7 - Updating target replica succeded.
+TIME: 7 - Updating initiator replica.
+TIME: 8 - Updating initiator replica succeded.
+TIME: 8 - Propagating deletions to initiator replica.
+TIME: 8 - Propagating deletions to target replica.
+TIME: 8 - Creating initiator replica file list [/home/device3/D/].
+TIME: 8 - Creating target replica file list [/home/device1/D/].
+TIME: 9 - Finished synchronization task.
+TIME: 9 - Running conflict backup cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 11 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 11 - Cleanup complete on target replica.
+TIME: 11 - Running soft deletion cleanup.
+TIME: 11 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 11 - File cleanup complete on initiator replica.
+TIME: 11 - Directory cleanup complete on initiator replica.
+TIME: 12 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 12 - Cleanup complete on target replica.
+TIME: 13 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:30:14 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 18771)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:31:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 20457)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:31:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 22137)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:32:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 23862)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:32:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 25535)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:33:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 27205)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:33:11 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 28779)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:34:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 30421)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:34:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 32039)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 5 - Propagating deletions to initiator replica.
+TIME: 5 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:35:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 1219)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:35:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 2922)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:36:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 4784)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:36:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 6429)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:37:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 8139)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:37:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 9750)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 3 - Creating target replica deleted file list.
+TIME: 3 - Updating target replica.
+TIME: 4 - Updating target replica succeded.
+TIME: 4 - Updating initiator replica.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 5 - Propagating deletions to initiator replica.
+TIME: 5 - Propagating deletions to target replica.
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 6 - Creating target replica file list [/home/device2/D/].
+TIME: 7 - Finished synchronization task.
+TIME: 7 - Running conflict backup cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 10 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:38:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 11369)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:38:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 13019)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Starting synchronization task.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 4 - Updating target replica.
+TIME: 5 - Updating target replica succeded.
+TIME: 5 - Updating initiator replica.
+TIME: 6 - Updating initiator replica succeded.
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 9 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 9 - Cleanup complete on target replica.
+TIME: 9 - Running soft deletion cleanup.
+TIME: 9 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 9 - File cleanup complete on initiator replica.
+TIME: 9 - Directory cleanup complete on initiator replica.
+TIME: 10 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 10 - Cleanup complete on target replica.
+TIME: 11 - osync finished.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:39:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 14678)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 40 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:40:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 22869)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 80 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 80 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 40 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:41:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 6283)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 121 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 80 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 80 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 81 - (CRITICAL):There is already a local instance [14678@sync_test_1] of osync running for this replica. Cannot start.
+TIME: 40 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 161 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 161 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 161 - Starting synchronization task.
+TIME: 161 - Creating initiator replica file list [/home/device3/D/].
+TIME: 161 - Creating target replica file list [/home/device1/D/].
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:42:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 28261)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 121 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 81 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 81 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 81 - (CRITICAL):There is already a local instance [14678@sync_test_1] of osync running for this replica. Cannot start.
+TIME: 201 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 40 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 161 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 161 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 161 - (CRITICAL):Remote lock handling failed.
+TIME: 161 - (CRITICAL):Cancelling task.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:43:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 24023)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 121 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 241 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 241 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 242 - Creating initiator replica deleted file list.
+TIME: 242 - Creating target replica deleted file list.
+TIME: 242 - Updating target replica.
+TIME: 81 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 81 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 81 - (CRITICAL):There is already a local instance [14678@sync_test_1] of osync running for this replica. Cannot start.
+TIME: 201 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 41 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 161 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 161 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 161 - (CRITICAL):Remote lock handling failed.
+TIME: 161 - (CRITICAL):Cancelling task.
+TIME: 282 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:44:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 24340)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 121 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 241 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 241 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 242 - (ERROR):osync finished with errors.
+TIME: 81 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 81 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 81 - (CRITICAL):There is already a local instance [14678@sync_test_1] of osync running for this replica. Cannot start.
+TIME: 201 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 322 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 322 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 322 - Updating target replica succeded.
+TIME: 322 - Updating initiator replica.
+TIME: 41 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 161 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 161 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 161 - (CRITICAL):Cancelling task.
+TIME: 282 - Sent mail using mutt.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:44:44 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 14641)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:45:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 24560)
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 121 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 242 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 242 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 242 - (ERROR):osync finished with errors.
+TIME: 363 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 81 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 81 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 202 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 40 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 41 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 161 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 161 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 162 - (CRITICAL):Cancelling task.
+TIME: 282 - Sent mail using mutt.
+TIME: 403 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 403 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:45:44 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 14577)
+TIME: 403 - Updating initiator replica succeded.
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 403 - Propagating deletions to initiator replica.
+TIME: 403 - Propagating deletions to target replica.
+TIME: 404 - Creating target replica file list [/home/device1/D/].
+TIME: 404 - Creating initiator replica file list [/home/device3/D/].
+TIME: 51 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 51 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 111 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 111 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 111 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 51 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 52 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 52 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 112 - (CRITICAL):Remote lock handling failed.
+TIME: 232 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 232 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 112 - (CRITICAL):Cancelling task.
+TIME: 52 - (CRITICAL):Remote lock handling failed.
+TIME: 172 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 112 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 52 - (CRITICAL):Cancelling task.
+TIME: 232 - (ERROR):osync finished with errors.
+TIME: 172 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 172 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 52 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 112 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 112 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 232 - Sent mail using mutt.
+TIME: 52 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 52 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 172 - (ERROR):osync finished with errors.
+TIME: 113 - (ERROR):osync finished with errors.
+TIME: 53 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:45:54 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 20386)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 173 - Sent mail using mutt.
+TIME: 113 - Sent mail using mutt.
+TIME: 0 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 11 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:45:54 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 20653)
+TIME: 70 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 70 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 0 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 0 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 11 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 11 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:45:54 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 20726)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 12 - (CRITICAL):There is already a local instance [14641@sync_test_2] of osync running for this replica. Cannot start.
+TIME: 1 - (CRITICAL):There is already a local instance [14641@sync_test_2] of osync running for this replica. Cannot start.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 71 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 12 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 71 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 71 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 12 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 12 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 414 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 54 - Sent mail using mutt.
+TIME: 414 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 414 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - (CRITICAL):There is already a local instance [14641@sync_test_2] of osync running for this replica. Cannot start.
+TIME: 12 - (CRITICAL):Remote lock handling failed.
+TIME: 1 - (CRITICAL):Remote lock handling failed.
+TIME: 71 - Starting synchronization task.
+TIME: 71 - Creating initiator replica file list [/home/device3/D/].
+TIME: 71 - Creating target replica file list [/home/device2/D/].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 12 - (CRITICAL):Cancelling task.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:45:56 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - (CRITICAL):There is already a local instance [14641@sync_test_2] of osync running for this replica. Cannot start.
+TIME: 71 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 21332)
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 415 - Finished synchronization task.
+TIME: 415 - Running conflict backup cleanup.
+TIME: 415 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 415 - File cleanup complete on initiator replica.
+TIME: 72 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 72 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 415 - Directory cleanup complete on initiator replica.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 13 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 415 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 415 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 415 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - (CRITICAL):Remote lock handling failed.
+TIME: 415 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 13 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 13 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 72 - Creating initiator replica deleted file list.
+TIME: 72 - Creating target replica deleted file list.
+TIME: 415 - Cleanup complete on target replica.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - (ERROR):osync finished with errors.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 72 - Updating target replica.
+TIME: 13 - (ERROR):osync finished with errors.
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 415 - Running soft deletion cleanup.
+TIME: 415 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 415 - File cleanup complete on initiator replica.
+TIME: 415 - Directory cleanup complete on initiator replica.
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 72 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 415 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Sent mail using mutt.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 72 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 72 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 13 - Sent mail using mutt.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - (ERROR):osync finished with errors.
+TIME: 416 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 416 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 416 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:45:57 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_1] launched as device3@kali (PID 22237)
+TIME: 3 - Sent mail using mutt.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:45:57 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 22353)
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:45:57 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 22470)
+TIME: 3 - (ERROR):osync finished with errors.
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 416 - Cleanup complete on target replica.
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 73 - Updating target replica succeded.
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Trying to resume aborted execution on 2017-07-31 13:45:56.617945224 -0400 at task [update-replica] for initiator. [0] previous tries.
+TIME: 2 - Trying to resume aborted execution on 2017-07-31 13:45:56.617945224 -0400 as task [update-replica] for target. [0] previous tries.
+TIME: 2 - Updating target replica.
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 74 - Updating initiator replica.
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 417 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Sent mail using mutt.
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 74 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 417 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 417 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 1 - (CRITICAL):There is already a local instance [22237@sync_test_1] of osync running for this replica. Cannot start.
+TIME: 74 - Updating initiator replica succeded.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 74 - Propagating deletions to initiator replica.
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 74 - Propagating deletions to target replica.
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 417 - Sent mail using mutt.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Updating initiator replica succeded.
+TIME: 2 - (CRITICAL):Remote lock handling failed.
+TIME: 3 - (CRITICAL):Remote lock handling failed.
+TIME: 4 - Propagating deletions to target replica.
+TIME: 4 - Propagating deletions to initiator replica.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:45:59 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 23485)
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 3 - (CRITICAL):Cancelling task.
+TIME: 2 - (ERROR):osync finished with errors.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Sent mail using mutt.
+TIME: 4 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 4 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 76 - Creating target replica file list [/home/device2/D/].
+TIME: 76 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device1/D/].
+TIME: 3 - (ERROR):osync finished with errors.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:46:00 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 24070)
+TIME: 76 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Creating target replica file list [/home/device2/D/].
+TIME: 5 - Creating initiator replica file list [/home/device3/D/].
+TIME: 76 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 76 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Sent mail using mutt.
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 5 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Creating target replica deleted file list.
+TIME: 2 - Creating initiator replica deleted file list.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 5 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 76 - Finished synchronization task.
+TIME: 76 - Running conflict backup cleanup.
+TIME: 76 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 77 - File cleanup complete on initiator replica.
+TIME: 77 - Directory cleanup complete on initiator replica.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:46:01 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 24507)
+TIME: 77 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Updating target replica.
+TIME: 77 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 77 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 77 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 77 - Cleanup complete on target replica.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - (CRITICAL):Remote lock handling failed.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - (CRITICAL):There is already a local instance [23485@sync_test_2] of osync running for this replica. Cannot start.
+TIME: 77 - Running soft deletion cleanup.
+TIME: 6 - Finished synchronization task.
+TIME: 6 - Running conflict backup cleanup.
+TIME: 77 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 6 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 5 - Sent mail using mutt.
+TIME: 77 - File cleanup complete on initiator replica.
+TIME: 6 - File cleanup complete on initiator replica.
+TIME: 77 - Directory cleanup complete on initiator replica.
+TIME: 6 - Directory cleanup complete on initiator replica.
+TIME: 3 - Updating target replica succeded.
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 7 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Updating initiator replica.
+TIME: 78 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:46:02 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_1] launched as device3@kali (PID 24909)
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 7 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 7 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 7 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:46:02 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 25079)
+TIME: 78 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 78 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 78 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 4 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - (CRITICAL):Remote lock handling failed.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 7 - Cleanup complete on target replica.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 78 - Cleanup complete on target replica.
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 7 - Running soft deletion cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Updating initiator replica succeded.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 4 - Propagating deletions to initiator replica.
+TIME: 4 - Propagating deletions to target replica.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - (ERROR):osync finished with errors.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 7 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 78 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 7 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 7 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 7 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Starting synchronization task.
+TIME: 79 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 79 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Sent mail using mutt.
+TIME: 3 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - (CRITICAL):There is already a local instance [24909@sync_test_1] of osync running for this replica. Cannot start.
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 8 - Cleanup complete on target replica.
+TIME: 79 - (WARN):osync finished with warnings.
+TIME: 2 - Starting synchronization task.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Trying to resume aborted execution on 2017-07-31 13:46:02.013945369 -0400 at task [delete-propagation] for initiator. [0] previous tries.
+TIME: 2 - Trying to resume aborted execution on 2017-07-31 13:46:02.725945388 -0400 as task [delete-propagation] for target. [0] previous tries.
+TIME: 2 - Propagating deletions to target replica.
+TIME: 2 - Propagating deletions to initiator replica.
+TIME: 3 - (ERROR):osync finished with errors.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:46:03 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 25954)
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 8 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 4 - Creating target replica deleted file list.
+TIME: 80 - Sent mail using mutt.
+TIME: 6 - Creating target replica file list [/home/device1/D/].
+TIME: 6 - Creating initiator replica file list [/home/device3/D/].
+TIME: 9 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 9 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 4 - Sent mail using mutt.
+TIME: 4 - Updating target replica.
+TIME: 6 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - (CRITICAL):Cancelling task.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 6 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 6 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 9 - (WARN):osync finished with warnings.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 4 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:46:04 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 26484)
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:46:04 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 26523)
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 6 - Finished synchronization task.
+TIME: 6 - Running conflict backup cleanup.
+TIME: 6 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 6 - File cleanup complete on initiator replica.
+TIME: 9 - Sent mail using mutt.
+TIME: 6 - Directory cleanup complete on initiator replica.
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Updating target replica succeded.
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 6 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 5 - Updating initiator replica.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 5 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - (ERROR):osync finished with errors.
+TIME: 7 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 7 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 7 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Finished synchronization task.
+TIME: 4 - Running conflict backup cleanup.
+TIME: 4 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 4 - File cleanup complete on initiator replica.
+TIME: 4 - Directory cleanup complete on initiator replica.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 5 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Sent mail using mutt.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:46:05 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 27047)
+TIME: 7 - Cleanup complete on target replica.
+TIME: 4 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 4 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 5 - Updating initiator replica succeded.
+TIME: 7 - Running soft deletion cleanup.
+TIME: 7 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 7 - File cleanup complete on initiator replica.
+TIME: 7 - Directory cleanup complete on initiator replica.
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - (CRITICAL):There is already a local instance [25954@sync_test_2] of osync running for this replica. Cannot start.
+TIME: 3 - Starting synchronization task.
+TIME: 6 - Propagating deletions to target replica.
+TIME: 8 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 6 - Propagating deletions to initiator replica.
+TIME: 2 - (CRITICAL):There is already a local instance [25954@sync_test_2] of osync running for this replica. Cannot start.
+TIME: 5 - Cleanup complete on target replica.
+TIME: 3 - Trying to resume aborted execution on 2017-07-31 13:46:05.065945450 -0400 at task [delete-propagation] for initiator. [0] previous tries.
+TIME: 3 - Trying to resume aborted execution on 2017-07-31 13:46:06.017945476 -0400 as task [delete-propagation] for target. [0] previous tries.
+TIME: 3 - Propagating deletions to initiator replica.
+TIME: 3 - Propagating deletions to target replica.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 8 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 8 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 8 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 5 - Running soft deletion cleanup.
+TIME: 5 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 5 - File cleanup complete on initiator replica.
+TIME: 5 - Directory cleanup complete on initiator replica.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:46:06 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_1] launched as device3@kali (PID 27422)
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 8 - Cleanup complete on target replica.
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 5 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 5 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 2 - (CRITICAL):Remote lock handling failed.
+TIME: 2 - (CRITICAL):Remote lock handling failed.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 8 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 5 - Cleanup complete on target replica.
+TIME: 8 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 8 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device2/D/].
+TIME: 4 - Creating initiator replica file list [/home/device3/D/].
+TIME: 4 - Creating target replica file list [/home/device2/D/].
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 7 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 6 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 9 - (WARN):osync finished with warnings.
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 7 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 7 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 4 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 6 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 6 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 9 - Sent mail using mutt.
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 7 - (WARN):osync finished with warnings.
+TIME: 4 - (ERROR):osync finished with errors.
+TIME: 3 - Starting synchronization task.
+TIME: 4 - (ERROR):osync finished with errors.
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 3 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - Creating target replica file list [/home/device1/D/].
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 5 - Finished synchronization task.
+TIME: 5 - Running conflict backup cleanup.
+TIME: 5 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 3 - (CRITICAL):Remote lock handling failed.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 5 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 5 - Directory cleanup complete on initiator replica.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:46:08 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 28662)
+TIME: 8 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - (CRITICAL):Cancelling task.
+TIME: 5 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 5 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 5 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 7 - Sent mail using mutt.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 8 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 8 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Sent mail using mutt.
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Cleanup complete on target replica.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 8 - Cleanup complete on target replica.
+TIME: 5 - Running soft deletion cleanup.
+TIME: 5 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 5 - File cleanup complete on initiator replica.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 5 - Directory cleanup complete on initiator replica.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:46:08 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_2] launched as device3@kali (PID 29107)
+TIME: 1 - -------------------------------------------------------------
+TIME: 4 - Creating target replica deleted file list.
+TIME: 1 - Mon Jul 31 13:46:09 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 4 - Creating initiator replica deleted file list.
+TIME: 1 - Sync task [sync_test_1] launched as device3@kali (PID 29180)
+TIME: 6 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - (ERROR):osync finished with errors.
+TIME: 9 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 4 - Updating target replica.
+TIME: 6 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 6 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 6 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 9 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 9 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 9 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Sent mail using mutt.
+TIME: 4 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 9 - Cleanup complete on target replica.
+TIME: 6 - Cleanup complete on target replica.
+TIME: 5 - Sent mail using mutt.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 4 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 9 - (ERROR):Could not unlock local initiator replica.
+TIME: 6 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 10 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Updating initiator replica succeded.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Propagating deletions to initiator replica.
+TIME: 5 - Propagating deletions to target replica.
+TIME: 3 - Starting synchronization task.
+TIME: 4 - (ERROR):osync finished with errors.
+TIME: 3 - Trying to resume aborted execution on 2017-07-31 13:46:10.209945588 -0400 at task [delete-propagation] for initiator. [0] previous tries.
+TIME: 3 - Trying to resume aborted execution on 2017-07-31 13:46:10.949945608 -0400 as task [delete-propagation] for target. [0] previous tries.
+TIME: 3 - Propagating deletions to target replica.
+TIME: 3 - Propagating deletions to initiator replica.
+TIME: 8 - Sent mail using mutt.
+TIME: 3 - (CRITICAL):Cancelling task.
+TIME: 2 - (CRITICAL):There is already a local instance [29788@sync_test_2] of osync running for this replica. Cannot start.
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Sent mail using mutt.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:46:12 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 30835)
+TIME: 12 - Sent mail using mutt.
+TIME: 3 - (CRITICAL):Remote lock handling failed.
+TIME: 3 - (CRITICAL):Remote lock handling failed.
+cat: /home/device2/D/.osync_workdir/lock: No such file or directory
+TIME: 3 - (CRITICAL):Cancelling task.
+TIME: 7 - Creating initiator replica file list [/home/device3/D/].
+TIME: 7 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - (ERROR):osync finished with errors.
+TIME: 4 - Creating target replica file list [/home/device1/D/].
+TIME: 4 - Creating initiator replica file list [/home/device3/D/].
+TIME: 3 - (CRITICAL):Cancelling task.
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 7 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:46:12 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 31094)
+TIME: 4 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 4 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 7 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 7 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Sent mail using mutt.
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - (ERROR):osync finished with errors.
+TIME: 0 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - (ERROR):osync finished with errors.
+TIME: 4 - Finished synchronization task.
+TIME: 4 - Running conflict backup cleanup.
+TIME: 4 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 4 - File cleanup complete on initiator replica.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Mon Jul 31 13:46:13 EDT 2017 - osync 1.2 script begin.
+TIME: 1 - -------------------------------------------------------------
+TIME: 1 - Sync task [sync_test_2] launched as device3@kali (PID 31483)
+TIME: 5 - Directory cleanup complete on initiator replica.
+TIME: 8 - Finished synchronization task.
+TIME: 8 - Running conflict backup cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 5 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 8 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 5 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 5 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 1 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Sent mail using mutt.
+TIME: 8 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 8 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 4 - Sent mail using mutt.
+TIME: 8 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 5 - Cleanup complete on target replica.
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - (CRITICAL):There is already a local instance [30835@sync_test_2] of osync running for this replica. Cannot start.
+TIME: 8 - Cleanup complete on target replica.
+TIME: 5 - Running soft deletion cleanup.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 5 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 8 - Running soft deletion cleanup.
+TIME: 8 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - File cleanup complete on initiator replica.
+TIME: 8 - File cleanup complete on initiator replica.
+TIME: 8 - Directory cleanup complete on initiator replica.
+TIME: 5 - Directory cleanup complete on initiator replica.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 8 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Starting synchronization task.
+TIME: 5 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Creating initiator replica file list [/home/device3/D/].
+TIME: 2 - Creating target replica file list [/home/device2/D/].
+TIME: 8 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 8 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 8 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 2 - (CRITICAL):There is already a local instance [30835@sync_test_2] of osync running for this replica. Cannot start.
+TIME: 6 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 6 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 6 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - (CRITICAL):Remote lock handling failed.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 9 - Cleanup complete on target replica.
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 6 - Cleanup complete on target replica.
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 9 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 6 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - (CRITICAL):Remote lock handling failed.
+TIME: 9 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 9 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Creating target replica deleted file list.
+TIME: 2 - (CRITICAL):Cancelling task.
+TIME: 3 - Creating initiator replica deleted file list.
+TIME: 6 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 6 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - (ERROR):osync finished with errors.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Updating target replica.
+TIME: 9 - (WARN):osync finished with warnings.
+TIME: 6 - (WARN):osync finished with warnings.
+TIME: 2 - Sent mail using mutt.
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 4 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 4 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - (ERROR):osync finished with errors.
+TIME: 4 - Updating initiator replica succeded.
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 4 - Propagating deletions to initiator replica.
+TIME: 4 - Propagating deletions to target replica.
+TIME: 0 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 8 - Sent mail using mutt.
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Creating initiator replica file list [/home/device3/D/].
+TIME: 5 - Creating target replica file list [/home/device2/D/].
+TIME: 5 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 5 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 5 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Starting synchronization task.
+TIME: 1 - Trying to resume aborted execution on 2017-07-31 13:46:16.405945754 -0400 at task [replica-tree-after] for initiator. [0] previous tries.
+TIME: 1 - Trying to resume aborted execution on 2017-07-31 13:46:16.405945754 -0400 as task [replica-tree-after] for target. [0] previous tries.
+TIME: 1 - Creating initiator replica file list [/home/device3/D/].
+TIME: 1 - Creating target replica file list [/home/device2/D/].
+TIME: 5 - Finished synchronization task.
+TIME: 5 - Running conflict backup cleanup.
+TIME: 5 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 5 - File cleanup complete on initiator replica.
+TIME: 5 - Directory cleanup complete on initiator replica.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 5 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 6 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 6 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 6 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 2 - Finished synchronization task.
+TIME: 2 - Running conflict backup cleanup.
+TIME: 2 - Removing files older than 30 days on initiator replica for conflict backup deletion.
+TIME: 6 - Cleanup complete on target replica.
+TIME: 2 - File cleanup complete on initiator replica.
+TIME: 2 - Directory cleanup complete on initiator replica.
+TIME: 6 - Running soft deletion cleanup.
+TIME: 6 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 6 - File cleanup complete on initiator replica.
+TIME: 6 - Directory cleanup complete on initiator replica.
+TIME: 2 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 2 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 2 - Removing files older than 30 days on target replica for conflict backup deletion.
+TIME: 6 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 2 - Cleanup complete on target replica.
+TIME: 6 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 6 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 6 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 6 - Cleanup complete on target replica.
+TIME: 2 - Running soft deletion cleanup.
+TIME: 2 - Removing files older than 30 days on initiator replica for softdelete deletion.
+TIME: 2 - File cleanup complete on initiator replica.
+TIME: 2 - Directory cleanup complete on initiator replica.
+TIME: 2 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 7 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Removing files older than 30 days on target replica for softdelete deletion.
+TIME: 3 - Cleanup complete on target replica.
+TIME: 7 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 7 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 3 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 7 - (WARN):osync finished with warnings.
+TIME: 3 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 3 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 7 - Sent mail using mutt.
+TIME: 3 - (WARN):osync finished with warnings.
+TIME: 3 - Sent mail using mutt.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Mon Jul 31 13:47:01 EDT 2017 - osync 1.2 script begin.
+TIME: 0 - -------------------------------------------------------------
+TIME: 0 - Sync task [sync_test_1] launched as device3@kali (PID 1407)
+TIME: 0 - Checking minimum disk space in local replica [/home/device3/D/].
+TIME: 0 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 0 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 0 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 0 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 0 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 0 - Starting synchronization task.
+TIME: 0 - Creating initiator replica file list [/home/device3/D/].
+TIME: 0 - Creating target replica file list [/home/device1/D/].
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?
+TIME: 1 - Creating initiator replica deleted file list.
+TIME: 1 - Creating target replica deleted file list.
+TIME: 1 - Updating target replica.
+TIME: 1 - Cannot ping 3rd party host [www.kernel.org]. Return code [2].
+TIME: 1 - Cannot ping 3rd party host [www.google.com]. Return code [2].
+TIME: 1 - (WARN):No remote 3rd party host responded to ping. No internet ?

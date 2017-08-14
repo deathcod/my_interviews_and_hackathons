@@ -1,0 +1,36 @@
+stores = {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -77.712500,
+              39.632778
+            ]
+          },
+          "properties": {
+            "stadium_name" : "Khartoum International Stadium",
+            "detail" : "The Khartoum International Stadium is a multi-purpose stadium in Khartoum, Sudan. It is currently used mostly for football matches.",
+            "city" : "Khartoum",
+            "country": "Sudan"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              30.039888,
+              31.223954
+            ]
+          },
+          "properties": {
+            "stadium_name" : "Mokhtar El-Tetsh Stadium",
+            "detail" : "El-Titsh Stadium(Arabic: ستاد مختار التتش بالجزيرة‎‎, often referred to as ) is one of Al Ahly SC club's sections that represent the club in Egypt and internationally",
+            "city" : "  Cairo",
+            "country": "Egypt"
+          }
+        }]
+};

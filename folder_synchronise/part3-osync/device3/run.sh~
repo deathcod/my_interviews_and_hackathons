@@ -1,0 +1,13 @@
+#!/bin/sh
+CONFLICT_BACKUP=yes
+CONFLICT_BACKUP_MULTIPLE=yes
+CONFLICT_BACKUP_DAYS=30
+LOGFILE="/home/device3/D/log.txt"
+IGNORE_OS_TYPE=yes
+REMOTE_HOST_PING=no
+RESUME_TRY=2
+SOFT_DELETE=yes
+CONFLICT_PREVALANCE=initiator
+CREATE_DIRS=yes
+#./osync/osync.sh --initiator=/home/device3/D --target=ssh://device2@127.0.2.1:22//home/device2/D --skip-deletion=initiator,target
+./osync/osync.sh --skip-deletion=initiator --initiator=/home/device3/D --target=ssh://device1@127.0.1.1:22//home/device1/D 
